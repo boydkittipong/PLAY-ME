@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ
+
+#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185650animalshow.png",AnimalShow
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
+
+#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185617bxcite.png",BXcite
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
+
+#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png",MYSCI
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==
+
+#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185502new-explorer.png",New_Explorer
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==
+
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",ANIMAL PLANET
+https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8|Referer=https://www.youdooball.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/s0bP149432.png",NATIONAL GEOGRAPHIC
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
+http://203.154.243.89:28010/pa/animal.ts
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
+http://203.154.243.89:28010/pa/sci.ts
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEE TV
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
+http://61.19.242.134/feed/202105171329/LC8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
+https://xplore-plex.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTGknv3.png",SPARK TV
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/4Zs8161120.png",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQH-8D-4YVxzoGMuFd8YdYO-75K1GlMcEz9g2oO=s900-c-k-c0x00ffffff-no-rj",INWILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/hUzD180408.png",INWONDER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EQ6Slim2i8d3YgXWGgHNgOnHVhZB40iBFDmjrzliJJY8ddgS9UEAb1hImPIGIsEjhNo9Cg_K=s900-c-k-c0x00ffffff-no-rj",INTROUBLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/insght-use.jpg",INSIGHT TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4LGRoT1EgdJkiKD0MZsZ0etm-1Qdwugnfg&usqp=CAU",AMERICAN OUTDOOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/05/C1LFWS.jpg",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8

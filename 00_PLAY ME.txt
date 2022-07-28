@@ -1,0 +1,130 @@
+
+{
+"name": "PLAY ME",
+"author": "Play Me",
+"image": "https://www.i-pic.info/i/X8vT187620.png",
+"url": "https://bit.ly/3OOV9ib",
+"groups": [
+ 
+ 
+ 
+{
+"name": "DIGITAL TV",
+"image": "https://www.i-pic.info/i/yLr8195347.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/FREETV",
+"import": false
+},
+{
+"name": "CABLE TV",
+"image": "https://www.i-pic.info/i/g8eC195346.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CABLETV",
+"import": false
+},
+{
+"name": "MOVIE & SERIES",
+"image": "https://www.i-pic.info/i/vX8x195348.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ENTERTAINMENT",
+"import": false
+},
+{
+"name": "ENTERTAINMENT",
+"image": "https://www.i-pic.info/i/NslS195349.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NANAMOVIE",
+"import": false
+},
+{
+"name": "KNOWLEDGE",
+"image": "https://www.i-pic.info/i/RXAk195350.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOCUMENTARY",
+"import": false
+},
+{
+"name": "KIDS",
+"image": "https://www.i-pic.info/i/Jk6K195352.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CARTOON",
+"import": false
+},
+{
+"name": "SPORTS",
+"image": "https://www.i-pic.info/i/Sbdm195351.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/SPORTS",
+"import": false
+},
+{
+"name": "NEWS",
+"image": "https://www.i-pic.info/i/bp1c195353.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NEWS",
+"import": false
+},
+{
+"name": "MOVIES ONLINE",
+"image": "https://www.i-pic.info/i/hFmP195354.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
+"import": false
+},
+{
+"name": "WATCH SERIES",
+"image": "https://www.i-pic.info/i/e3gC195355.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SERIES",
+"import": false
+},
+{
+"name": "NETFLX",
+"image": "https://www.i-pic.info/i/28vw195356.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
+"import": false
+},
+{
+"name": "RADIO ONLINE",
+"image": "https://www.i-pic.info/i/c74A195357.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
+"import": false
+},
+{
+"name": "90'S MOVIES",
+"image": "https://www.i-pic.info/i/W8Iy200270.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/90'S%20MOVIES",
+"import": false
+},
+{
+"name": "00'S MOVIES",
+"image": "https://www.i-pic.info/i/zILn200323.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/00'S%20MOVIES",
+"import": false
+},
+{
+"name": "10'S MOVIES",
+"image": "https://www.i-pic.info/i/rbtl200691.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/10'S%20MOVIES",
+"import": false
+},
+{
+"name": "LIVESOD88",
+"image": "https://www.i-pic.info/i/nM6R200746.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/Livesod88",
+"import": false
+},
+{
+"name": "MIX TV",
+"image": "https://img.utdstc.com/icon/14b/0a0/14b0a099c268c28434348f04c0053a77d2a8782408a5f50095b07942dec08bb9:200",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ShareextReborn",
+"import": false
+},
+{
+"name": "PLAYIDTVTV TV",
+"image": "https://dl.dropbox.com/s/bbr6c4meonyhkve/livetv.png?dl=0",
+"url": "https://dl.dropboxusercontent.com/s/nhgkamc2wbfvyyh/Playerbox.txt?dl=0",
+"info": "เพลย์ลิสต์รายการทีวีสด",
+"import": false
+},
+{
+"name": "PLAYIDTVTV MOVIE",
+"image": "https://dl.dropbox.com/s/nup0crqp5feq0fe/movieonline.png?dl=0",
+"url": "https://dl.dropbox.com/s/s9y5v8amtmzxhqh/filemovie.txt?dl=0",
+"info": "เพลย์ลิสต์ดูหนังออนไลน์",
+"import": false
+},
+ 
+ 
+]
+}

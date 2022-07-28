@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
+http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
+http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
+http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
+http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
+https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1209799966.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1541999054380335106/qF7964l0_400x400.jpg",VOICE TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBeyHt40CroxgNk7GLFLFEdy1H6ddMtLm7VMYUpvzNxPfTRa3dkm5cjl9Zin53fqX8g",TGN
+http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
