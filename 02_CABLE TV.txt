@@ -77,30 +77,3 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/burirumtv/burirumtv.png",BURIRUM TV
-https://live2.thaitvstream.com/play/burirumtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/andtv/andtv.png",AND TV
-https://live.thaitvstream.com/play/andtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",SRTV ONINE
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TBD101.png",TVD10
-https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w161210455.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-LOAOOY.png",OYLAO TV
-https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-MVLOA.png",MVLAO
-https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1708989851.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/lthu.png",LAOTHAI US
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-VTE.png",VTE9
-https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/hxEm198281.png",PNTV
-https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTlbYi2vPMbl39jzuYcQ1KjvhqNIRDk_ic5txK=s900-c-k-c0x00ffffff-no-rj",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
