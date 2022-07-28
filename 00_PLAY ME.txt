@@ -11,37 +11,37 @@
 {
 "name": "DIGITAL TV",
 "image": "https://www.i-pic.info/i/yLr8195347.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/FREETV",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/01_DIGITAL%20TV.txt",
 "import": false
 },
 {
 "name": "CABLE TV",
 "image": "https://www.i-pic.info/i/g8eC195346.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CABLETV",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/02_CABLE%20TV.txt",
 "import": false
 },
 {
 "name": "MOVIE & SERIES",
 "image": "https://www.i-pic.info/i/vX8x195348.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ENTERTAINMENT",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/03_MOVIE%20%26%20SERIES.txt",
 "import": false
 },
 {
 "name": "ENTERTAINMENT",
 "image": "https://www.i-pic.info/i/NslS195349.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NANAMOVIE",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/04_ENTERTAINMENT.txt",
 "import": false
 },
 {
 "name": "KNOWLEDGE",
 "image": "https://www.i-pic.info/i/RXAk195350.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOCUMENTARY",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/05_KNOWLEDGE.txt",
 "import": false
 },
 {
 "name": "KIDS",
 "image": "https://www.i-pic.info/i/Jk6K195352.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/CARTOON",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/06_KIDS.txt",
 "import": false
 },
 {
