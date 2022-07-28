@@ -1,6 +1,6 @@
 
 {
-"name": "PLAY ME",
+"name": "PLAY ME V.2",
 "author": "Play Me",
 "image": "https://www.i-pic.info/i/X8vT187620.png",
 "url": "https://bit.ly/3OI0lnn",
