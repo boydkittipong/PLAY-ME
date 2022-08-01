@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ
 
 #EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185650animalshow.png",AnimalShow
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
 
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185617bxcite.png",BXcite
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
 
 #EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png",MYSCI
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -47,7 +41,8 @@ http://203.154.243.89:28010/pa/sci.ts
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEE TV
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
 http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
