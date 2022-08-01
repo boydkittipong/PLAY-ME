@@ -272,18 +272,13 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ODqv150065.png",RUSH HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/k8wy152107.png",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/sAiF155255.png",BARCA TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8|Referer=https://player.licenses4.me
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/qelH155239.png",WORLD SNOOKER
-http://203.154.243.89:28010/pa/snooker.ts
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/eQnW161181.png",WTB
-http://203.154.243.89:28010/pa/wtb.ts
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnd3ZS51bml2ZXJzZV9pY29uXzE1NjQwNTI5ODdfMDAy/icon.png?w=&fakeurl=1",WWE
@@ -316,11 +311,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_4_4k.jpg",J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD Sport 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+
