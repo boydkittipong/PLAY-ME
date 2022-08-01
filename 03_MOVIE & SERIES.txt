@@ -19,6 +19,8 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
@@ -46,6 +48,8 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
 http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
 #EXTVLCOPT:http-referrer=https://wacth.tv/
