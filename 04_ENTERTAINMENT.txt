@@ -28,7 +28,8 @@ https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+#http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE2OjM4IEFNJmhhc2hfdmFsdWU9YUhOK0RMek1UbyswYTZBNWRkcnE3UT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF84NjUwMg==
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
