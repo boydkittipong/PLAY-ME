@@ -76,33 +76,22 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1 (Back Up)
-https://youdooball.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=https://youdooball.com/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://youdooball.com/
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/sport/tpf2/chunks.m3u8|Referer=https://dooball2you.com/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2 (Back Up)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://youdooball.com/
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://youdooball.com/
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/sport/tpf4/chunks.m3u8|Referer=https://dooball2you.com/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4 (Back Up)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/sport/tpf5/chunks.m3u8|Referer=https://dooball2you.com/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5 (Back Up)
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=https://youdooball.com/
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/
@@ -215,23 +204,6 @@ https://livesod88.com/?id=739381&ch=astrosupersport3
 https://livesod88.com/?id=739381&ch=astrosupersport4
 
 
-
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/tglY149436.png",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/580
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/1JEy149437.png",BEIN SPORT 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/676
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/UJYO149438.png",BEIN SPORT 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/677
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xioR149439.png",BEIN SPORT 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/664
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/t1Gr149440.png",BEIN SPORT 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/665
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/AbOc149441.png",BEIN SPORT 6
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/666
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/1CZz149442.png",BEIN SPORT 7
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/667
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
@@ -288,14 +260,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/32eO150074.png",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/QYto167250.png",CANAL CHINO
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EMOa167251.png",SITV
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/tT03ZHTTTjW42ibOAgc-gwnwxQcb_Q2gx9RKK2dha3maszhN4U93EW6RlQhCBGXEx8r2EhUb=s900-c-k-c0x00ffffff-no-rj", TNT Sports Brasil
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/tT03ZHTTTjW42ibOAgc-gwnwxQcb_Q2gx9RKK2dha3maszhN4U93EW6RlQhCBGXEx8r2EhUb=s900-c-k-c0x00ffffff-no-rj",TNT Sports Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
