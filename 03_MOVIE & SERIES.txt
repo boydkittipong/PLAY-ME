@@ -67,7 +67,7 @@ https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://mediasv.online/stream_live/hbof/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTM6NDkgUE0maGFzaF92YWx1ZT12TGZhQ2FkUllUY0Z0aVlLa3ZtUnVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzYwODI2
 
 
-#EXTINF:-0 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",CINEMAX
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/T8AR152036.png",CINEMAX
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDM6MDM6MTcgUE0maGFzaF92YWx1ZT1vRnZOcmhuWlZEUmFuRU5KU1NlcDFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzEzNzM4
 
@@ -85,9 +85,9 @@ https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rx_0a7JDFELPcUyP5RaqaX7FraezYQiSBaNp1BGAAo5yQV0_MldgSH8u6sBIQejT0-ADD0QWFYc=s900-c-k-c0x00ffffff-no-rj",TVN
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/l7oM156906.png",TVN
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pA5Z156898.png",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/440px-KBC_Gwangju_Broadcasting_logo.svg.png",KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -96,27 +96,27 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-0  tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",CCM
+#EXTINF:-0  tvg-logo="https://www.i-pic.info/i/OUYP156891.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==
 
-#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_212.jpg",GEM
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Tsnc156894.png",GEM
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE2OjA3IEFNJmhhc2hfdmFsdWU9NCt2RmtNVWpYN1hPc3RxWDJrYUIyUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8zMzQyNQ==
 
-#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_243.jpg",TRUE KOREAN MORE
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/aRhl156899.png",TRUE KOREAN MORE
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE0OjU1IEFNJmhhc2hfdmFsdWU9b21hbVM4QmZJKzRMS1BmU3NEaldYUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNiZpZD1jaF82Nzg2OA==
 
-#EXTINF:-0  tvg-logo="http://tvsmagazine.com/images/channels/sm_158.jpg" ,TRUE ASIAN SERIES
+#EXTINF:-0  tvg-logo="https://www.i-pic.info/i/KJxH156890.png" ,TRUE ASIAN SERIES
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjU0IEFNJmhhc2hfdmFsdWU9ZWJIWTVKOEh6cmFuQmtDdStUK2p5dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNSZpZD1jaF84NjI1MA==
 
-#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_244.jpg",TRUE CHINESE MORE
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
 #EXTVLCOPT:http-referrer=https://www.siammovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 https://sport.livedoomovies.com:4432/02_FoxMoviesTH_720p/chunklist.m3u8
