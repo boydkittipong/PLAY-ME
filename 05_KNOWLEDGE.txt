@@ -48,6 +48,11 @@ http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
 #https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",LOVE NATURE 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
 http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
