@@ -9,6 +9,17 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|Referer
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPW.jpg",TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
+
+#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPL.jpg",TRUE EXPLORE LIFE
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTE6MDUgUE0maGFzaF92YWx1ZT1uNlR2Unl3dWY5TEplMGt5VlJpblJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzQwNTAw
+
+#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",TRUE EXPLORE SCI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDM6MzI6NTAgUE0maGFzaF92YWx1ZT03Wk9ENEVsRU5ML3VPcStSU2p0V0dnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYxMjE1
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -46,7 +57,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg", BISNET ADVENTURE 4K
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",BISNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/96Lg150079.png",SEXY KPOP TV
@@ -82,13 +93,7 @@ https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjUxOjUwIEFNJmhhc2hfdmFsdWU9Z1dPQzRpeTBTM0Y5YnNoL3hVYUVNQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF8zOTM1OQ==
 
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185853heart.png",Heart
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjE5IEFNJmhhc2hfdmFsdWU9VzJ3aXZFWUUrWkZGeWM4M1ZzNlBVUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF80NTYxMg==
 
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185823hero.png",Hero
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjM1IEFNJmhhc2hfdmFsdWU9M2k2ZnIvVEdTTmpDRXYxTjFjK1Nydz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNiZpZD1jaF83NTQ0NA==
 
 
 
