@@ -47,7 +47,7 @@
 {
 "name": "SPORTS",
 "image": "https://www.i-pic.info/i/Sbdm195351.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/SPORTS",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/07_SPORTS.txt",
 "import": false
 },
 {
