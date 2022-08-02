@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
-https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8|Referer=https://ballsodhd.com/player/live.php?ch=dooball66-bein1a
-#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
-https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8?nimblesessionid=78307&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgNzo0OToyMSBBTSZoYXNoX3ZhbHVlPXBEUjFNODU1SmdwajlYSnZIWEc0OUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04ODMzMzc1fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MjY1NjF8ZG9vYmFsbDY2LWJlaW4xYV83MjB8ODgzMzM3NXwxMDMuMTMuMjI5LjEzMw==
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
@@ -289,5 +285,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-
+#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
+https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8|Referer=https://ballsodhd.com/player/live.php?ch=dooball66-bein1a
+#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
+https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8?nimblesessionid=78307&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgNzo0OToyMSBBTSZoYXNoX3ZhbHVlPXBEUjFNODU1SmdwajlYSnZIWEc0OUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04ODMzMzc1fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MjY1NjF8ZG9vYmFsbDY2LWJlaW4xYV83MjB8ODgzMzM3NXwxMDMuMTMuMjI5LjEzMw==
 
