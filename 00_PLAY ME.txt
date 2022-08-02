@@ -124,6 +124,13 @@
 "info": "เพลย์ลิสต์ดูหนังออนไลน์",
 "import": false
 },
+{
+"name": "FAST LOAD",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7L-f2lpPazZ9_qrlbH4e7m2jNI4o4Jj7az2gteueea3hxrw7fkQFu3tBpQuUyIA38ZeE&usqp=CAU",
+"url": "https://paste.website/p/e1970f3a-d74b-4997-949e-10de1567edb2.txt",
+"info": "เพลย์ลิสต์ดูหนังออนไลน์",
+"import": false
+}, 
  
  
 ]
