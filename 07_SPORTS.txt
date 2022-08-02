@@ -192,13 +192,16 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/
 
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livesod88.com/?id=739381&ch=astrosupersport
+https://edge-s2e.onlineprostream.com:442/hmcb4rf66f-th1/my-asp1hd_720/chunks.m3u8?nimblesessionid=7301785&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgODo1OTozMiBBTSZoYXNoX3ZhbHVlPVg4NC9lQ3Y4YnNXRSs2cm9kNC9aYkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD05ODUwNzEyfGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MzA3NzJ8bXktYXNwMWhkXzcyMHw5ODUwNzEyfDEwMy4xMy4yMjkuMTMz
+
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livesod88.com/?id=739381&ch=astrosupersport2
+https://edge-s4b.onlineprostream.com:449/hmcb4rf66f-th1/my-asp2hd_720/chunks.m3u8?nimblesessionid=76739&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgODo1ODowMyBBTSZoYXNoX3ZhbHVlPW5vNUQyWU5QVjZNOWNWL3BjcDg0OUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0xOTAxMzYzfGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MzA2ODN8bXktYXNwMmhkXzcyMHwxOTAxMzYzfDEwMy4xMy4yMjkuMTMz
+
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png",ASTRO SUPER SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livesod88.com/?id=739381&ch=astrosupersport3
+
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livesod88.com/?id=739381&ch=astrosupersport4
@@ -285,8 +288,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
-https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8|Referer=https://ballsodhd.com/player/live.php?ch=dooball66-bein1a
-#EXTINF:-1 tvg-id="N/A" tvg-logo="",BEIN SPORT 1
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
 https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8?nimblesessionid=78307&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgNzo0OToyMSBBTSZoYXNoX3ZhbHVlPXBEUjFNODU1SmdwajlYSnZIWEc0OUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04ODMzMzc1fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MjY1NjF8ZG9vYmFsbDY2LWJlaW4xYV83MjB8ODgzMzM3NXwxMDMuMTMuMjI5LjEzMw==
 
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/IPGe150019.png",BTSPORT 1
+https://edge-s2f.onlineprostream.com:466/hmcb4rf66f-th1/uk-btsport1hdbkp_480/chunks.m3u8?nimblesessionid=11476&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgOTowMTozMyBBTSZoYXNoX3ZhbHVlPVB4eHRGZXdTaUNvNnlVOFlMeC8vemc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04OTA3MDMzfGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MzA4OTN8dWstYnRzcG9ydDFoZGJrcF80ODB8ODkwNzAzM3wxMDMuMTMuMjI5LjEzMw==
