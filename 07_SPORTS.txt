@@ -290,7 +290,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
-https://edge-s2h.onlineprostream.com:447/hmcb4rf66f-th1/dooball66-bein1a_720/chunks.m3u8?nimblesessionid=78307&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgNzo0OToyMSBBTSZoYXNoX3ZhbHVlPXBEUjFNODU1SmdwajlYSnZIWEc0OUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04ODMzMzc1fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MjY1NjF8ZG9vYmFsbDY2LWJlaW4xYV83MjB8ODgzMzM3NXwxMDMuMTMuMjI5LjEzMw==
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsodhd.com/
+https://ballsodhd.com/player/live.php?ch=dooball66-bein1a
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/IPGe150019.png",BTSPORT 1
-https://edge-s2f.onlineprostream.com:466/hmcb4rf66f-th1/uk-btsport1hdbkp_480/chunks.m3u8?nimblesessionid=11476&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgOTowMTozMyBBTSZoYXNoX3ZhbHVlPVB4eHRGZXdTaUNvNnlVOFlMeC8vemc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNSZpZD04OTA3MDMzfGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2fDE2NTk0MzA4OTN8dWstYnRzcG9ydDFoZGJrcF80ODB8ODkwNzAzM3wxMDMuMTMuMjI5LjEzMw==
