@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO",MUTV
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg",LFCTV
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png",ARENA SPORT 1
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PxIR161143.png",ARENA SPORT 2
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cKyX161144.png",ARENA SPORT 3
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zd8G161145.png",ARENA SPORT 4
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://freetvdd.com
@@ -137,11 +161,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/ar
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mYX0161146.png",ARENA SPORT 5
 http://5.206.237.66:9000/play/a074
 
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png",ARENA SPORT 1
-https://livesod88.com/?id=854882&ch=arenasport1serbia
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PxIR161143.png",ARENA SPORT 2
-https://livesod88.com/?id=848674&ch=arenasport2serbia
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ybng150064.png",EURO SPORT 1
