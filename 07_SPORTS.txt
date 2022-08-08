@@ -11,10 +11,6 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/290309.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AaQzkRP.png" group-title="Playboy",Playboy TV Korea
 https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fifa5t.com/api/table/icon/ch111.png",PFC
-#EXTVLCOPT:http-referrer=https://www.fifa5t.com/doballlive/
-https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/pfc/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO",MUTV
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
 https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8
