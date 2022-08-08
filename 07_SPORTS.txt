@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.fifa5t.com/api/table/icon/ch111.png",PFC
 #EXTVLCOPT:http-referrer=https://www.fifa5t.com/doballlive/
-https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/pfc/playlist.m3u8
+https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/pfc/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO",MUTV
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
