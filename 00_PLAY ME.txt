@@ -131,6 +131,13 @@
 "info": "เพลย์ลิสต์ดูหนังออนไลน์",
 "import": false
 }, 
+{
+"name": "PLAY TV",
+"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/play-tv-logos-design-template-7f6bc874a7f45791f337ffa136d28e59_screen.jpg?ts=1638177360",
+"url": "https://pastebin.com/raw/bXVGbpSf?fbclid=IwAR0S13XkaArUbqymtm7C02gcvsMv8Q2A26aHnM56Im2cIQyXSruHK1Z6jKQ",
+"info": "เพลย์ลิสต์ดูหนังออนไลน์",
+"import": false
+}, 
  
  
 ]
