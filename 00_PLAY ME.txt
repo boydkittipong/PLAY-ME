@@ -81,18 +81,6 @@
 "import": false
 },
 {
-"name": "TV01",
-"image": "https://play-lh.googleusercontent.com/96K74LyCPQ-PRbk38cgthwM9UHLJt6gc_oh4mvy87-uxUeBHZ0CRweE47hHmXP3eyw",
-"url": "http://tiny.cc/k4",
-"import": false
-},
-{
-"name": "TV02",
-"image": "https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",
-"url": "http://tiny.cc/walk2",
-"import": false
-},
-{
 "name": "10'S MOVIES",
 "image": "https://www.i-pic.info/i/rbtl200691.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/10'S%20MOVIES",
