@@ -126,7 +126,20 @@
 "info": "เพลย์ลิสต์ดูหนังออนไลน์",
 "import": false
 }, 
- 
+{
+"name": "LIVE",
+"image": "https://play-lh.googleusercontent.com/96K74LyCPQ-PRbk38cgthwM9UHLJt6gc_oh4mvy87-uxUeBHZ0CRweE47hHmXP3eyw",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/KTV%204U.txt",
+"import": false
+},
+{
+"name": "IPTV",
+"image": "https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/WALKER-IPTV.txt",
+"import": false
+},
+
+
  
 ]
 }
