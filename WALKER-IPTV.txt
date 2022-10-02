@@ -1,0 +1,96 @@
+{
+"name": "WALKER-IPTV Clone28sep",
+"author": "WALKER-IPTV",
+"info": "ราคา 60 ต่อเดือน ช่องมีปัญหาพร้อมแก้ 24 ชั่วโมง",
+"image": "https://www.img.in.th/images/bde11d982b1d0371c62ed17818478fd3.png",
+"groups": [
+{
+"name": "ช่องทีวีดิจิตอล",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องไทย.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องไทย.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องการ์ตูน",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องการ์ตูน.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องการ์นตูน.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องกีฬา",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องกีฬา.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องกีฬา.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องหนัง",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องหนัง.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องหนัง.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องสาระคดี",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องสาระคดี.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องสาระคดี.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องเพลง",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องเพลง.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องเพลง.rar",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "ช่องเรียนหนังสือ",
+"image":"http://walker-iptv.ml/รูปiptv/ช่องเรียนหนังสือ.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องเรียน.rar",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "หนัง & ซีรี่ย์",
+"image":"http://walker-iptv.ml/รูปiptv/รวมหนัง.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/รวมหนัง.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": false
+},
+{
+"name": "18+",
+"image":"http://walker-iptv.ml/รูปiptv/หนัง18.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/18up.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": true
+},
+{
+"name": "วิทยุออนไลน์",
+"image":"http://walker-iptv.ml/รูปiptv/วิทยุ.png",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/วิทยุ.rar",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": true
+},
+{
+"name": "ข้อมูลอัพเดท",
+"image":"http://walker-iptv.ml/รูปiptv/updatetime.gif",
+"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/updatetime.txt",
+"referer": "xxx",
+"info": " WALKER-IPTV.ML ",
+"import": true
+},
+]
+}

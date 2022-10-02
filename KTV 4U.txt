@@ -1,0 +1,53 @@
+{
+"name"  : "KTV 4U",
+"author": "love everyone",
+"image" : "https://sv1.picz.in.th/images/2022/09/29/pRseLP.gif",
+"url"   : "https://pastebin.com/raw/cyR75Pcv",
+"groups": [
+{
+"name"  : "Dtv",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/fKVfK77g"
+},
+{
+"name"  : "MovieLive",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/hsRTpLYd"
+},
+{
+"name"  : "สารคดี",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/jBChpf6b"
+},
+{
+"name"  : "Kids",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/wvWQd3C0"
+},
+{
+"name"  : "Sport",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/pZXY4tPB"
+},
+{
+"name"  : "marvel",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/73AVY9TH"
+},
+{
+"name"  : "Serie",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/3SQsrXXF"
+},
+{
+"name"  : "DLTV",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://pastebin.com/raw/KjK5X2a3"
+},
+{
+"name"  : "18+",
+"image" : "https://sv1.picz.in.th/images/2022/09/30/pR6Ran.gif",
+"url"   : "https://drive.google.com/uc?id=105lVAQMkRomAsb6fKvvDZwrUxi-En70z"
+},
+]
+}
