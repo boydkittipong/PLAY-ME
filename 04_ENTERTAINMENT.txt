@@ -4,13 +4,13 @@
 https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r8/foodnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/HNdC149435.png",LIFETIME
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_040.jpg",TRUE INSIDE
-#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",TRUE EXPLORE WILD
@@ -74,7 +74,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RcsF161109.png",COUNTRY MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV ASIA
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 
 #EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190222khongdee.png",
