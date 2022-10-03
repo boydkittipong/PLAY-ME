@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/hBHG152070.png",SKY ONE
-https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mAUP152040.png",ALIBI
-https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/VCKg152056.png",GOLD
-https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ZxKh152046.png",BBC WORLD NEWS
-https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
-https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
