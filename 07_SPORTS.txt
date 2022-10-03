@@ -82,32 +82,32 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.123-hd.com/tv?ver=tv_vie&id=37
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r1/trueepl2_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.123-hd.com/tv?ver=tv_vie&id=39
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r1/trueepl3_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.123-hd.com/tv?ver=tv_vie&id=41
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r1/trueepl4_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.123-hd.com/tv?ver=tv_vie&id=43
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r1/trueepl5_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.123-hd.com/tv?ver=tv_vie&id=45
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r1/beinsport1_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r1/beinsporthd3_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/chunks.m3u8|Referer=https://dooball2you.com/
