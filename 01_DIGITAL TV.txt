@@ -20,7 +20,7 @@ http://61.19.242.134/feed/202205171329/chgmm/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
 http://61.19.242.134/feed/202205171329/chamarin/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+http://61.19.242.134/feed/202205171329/chmono29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
 http://61.19.242.134/feed/202205171329/chworkpoint/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
