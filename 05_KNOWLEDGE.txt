@@ -19,26 +19,26 @@ https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=ht
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",ANIMAL PLANET
 https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8|Referer=https://www.youdooball.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
-https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-1 tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL
-#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
-https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/s0bP149432.png",NATIONAL GEOGRAPHIC
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
-https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
-https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
@@ -57,7 +57,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
-http://61.19.242.134/feed/202105171329/LC8/index.m3u8
+http://61.19.242.134/feed/202205171329/LC8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTGknv3.png",SPARK TV
