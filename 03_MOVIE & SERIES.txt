@@ -25,7 +25,8 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/847655346835345408/LMtLVgDa_400x400.jpg",MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -33,19 +34,19 @@ http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/FN6v169687.png",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202205171329/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9umJ169690.png",SUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202205171329/LC1/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171329/LC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MHl0169689.png",SANOOK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC53/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oGck169688.png",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202205171329/LC2/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
