@@ -1,46 +1,5 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
-https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/pptv_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/tvdigital_one_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/gmm25_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/amarintv_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/mono_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/workpointtv_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/true4u_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/tvdigital_ch8_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/tvdigital_thairath_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/tvdigital_newtv_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/tnn2_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
