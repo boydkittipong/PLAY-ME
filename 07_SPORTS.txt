@@ -234,24 +234,24 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165715_digisport1romania.jpg",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/648
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165720_digisport2romania.jpg",DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/649
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062823_digisport3romania.jpg",DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/650
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062844_digisport4romania.jpg",DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/651
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223025645_ziggosportselect.jpg",ZIGGO SELECT
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_1_RO_logo.png",ORANGE SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/679
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/orangesport1ro/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",DUBAI SPORTS
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
