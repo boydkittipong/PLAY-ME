@@ -37,6 +37,8 @@ https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/tnn2_480p/pl
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8|Referer=https://www.doofootball.com/dootv
 
 
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+https://rr5---sn-w5nuxa-c33lk-33.googleuservideo.com/liveball99_m1/trueepl1_480p/playlist.m3u8|Referer=https://liveball99.com/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
