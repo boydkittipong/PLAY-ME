@@ -93,13 +93,7 @@
 "info": "เพลย์ลิสต์รายการทีวีสด",
 "import": false
 },
-{
-"name": "Wiseplay Did3",
-"imag": "https://www.img.in.th/images/401467d5ff80c0079855a14857f6c6b8.jpg",
-"url": "https://freenote.biz/raw/Dhbnpf3jI0",
-"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-"import": false
-},
+
 
 
  
