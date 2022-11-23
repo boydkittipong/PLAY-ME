@@ -88,7 +88,7 @@
 },
 {
 "name": "PLAYIDTVTV",
-"image": "https://dl.dropbox.com/s/bbr6c4meonyhkve/livetv.png?dl=0",
+"image": "https://lh3.googleusercontent.com/ca53TMz0s5aOATM4HV8oG0eFQZvMGDiAMaMLJAV-rhwM1HFdl4EFrhqNwkvqZ5NI7ucq=w300",
 "url": "https://pastebin.com/raw/H8nF9bSs",
 "info": "เพลย์ลิสต์รายการทีวีสด",
 "import": false
