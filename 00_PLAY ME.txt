@@ -93,45 +93,14 @@
 "import": false
 },
 {
-"name": "PLAYIDTVTV TV",
+"name": "PLAYIDTVTV",
 "image": "https://dl.dropbox.com/s/bbr6c4meonyhkve/livetv.png?dl=0",
-"url": "https://dl.dropboxusercontent.com/s/nhgkamc2wbfvyyh/Playerbox.txt?dl=0",
+"url": "https://pastebin.com/raw/H8nF9bS",
 "info": "เพลย์ลิสต์รายการทีวีสด",
 "import": false
 },
-{
-"name": "PLAYIDTVTV MOVIE",
-"image": "https://dl.dropbox.com/s/nup0crqp5feq0fe/movieonline.png?dl=0",
-"url": "https://dl.dropbox.com/s/s9y5v8amtmzxhqh/filemovie.txt?dl=0",
-"info": "เพลย์ลิสต์ดูหนังออนไลน์",
-"import": false
-},
-{
-"name": "FAST LOAD",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7L-f2lpPazZ9_qrlbH4e7m2jNI4o4Jj7az2gteueea3hxrw7fkQFu3tBpQuUyIA38ZeE&usqp=CAU",
-"url": "https://paste.website/p/e1970f3a-d74b-4997-949e-10de1567edb2.txt",
-"info": "เพลย์ลิสต์ดูหนังออนไลน์",
-"import": false
-}, 
-{
-"name": "PLAY TV",
-"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/play-tv-logos-design-template-7f6bc874a7f45791f337ffa136d28e59_screen.jpg?ts=1638177360",
-"url": "https://pastebin.com/raw/bXVGbpSf?fbclid=IwAR0S13XkaArUbqymtm7C02gcvsMv8Q2A26aHnM56Im2cIQyXSruHK1Z6jKQ",
-"info": "เพลย์ลิสต์ดูหนังออนไลน์",
-"import": false
-}, 
-{
-"name": "LIVE",
-"image": "https://play-lh.googleusercontent.com/96K74LyCPQ-PRbk38cgthwM9UHLJt6gc_oh4mvy87-uxUeBHZ0CRweE47hHmXP3eyw",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/KTV%204U.txt",
-"import": false
-},
-{
-"name": "IPTV",
-"image": "https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/WALKER-IPTV.txt",
-"import": false
-},
+
+
 
 
  
