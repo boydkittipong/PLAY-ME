@@ -21,6 +21,7 @@ https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
+
 #EXTINF:-1  tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnsCz.png",TRUE FILM 2
 #EXTVLCOPT:http-user-agent=exoplayer_video
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
@@ -71,21 +72,30 @@ http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
-#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-https://mediasv.online/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NDY6NDIgUE0maGFzaF92YWx1ZT1vUTJoRGNGL2V3L3Z6QURHNThHbVBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzUyNTA3
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
 #EXTINF:-0 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO SIGNATURE
-#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE4OjQyIEFNJmhhc2hfdmFsdWU9T2l4Q0ludW1lSXBIOCtNWlkrdHowUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xNiZpZD1jaF80NTM5Mw==
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
 #EXTINF:-0 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/hbof/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTM6NDkgUE0maGFzaF92YWx1ZT12TGZhQ2FkUllUY0Z0aVlLa3ZtUnVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzYwODI2
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2e/HBOhits.png", HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2e/HBOhits.png", HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hitsmovie/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/T8AR152036.png",CINEMAX
 #EXTVLCOPT:http-referrer=https://wacth.tv/
