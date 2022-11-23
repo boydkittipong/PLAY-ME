@@ -137,6 +137,6 @@ https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2Vy
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
-#EXTVLCOPT:http-referrer=https://www.siammovie-hd.com
+#EXTVLCOPT:http-referrer=https://555tv.online
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-https://sport.livedoomovies.com:4432/02_FoxMoviesTH_720p/chunklist.m3u8
+https://555tv.online/player2.php?channel_code=TCM
