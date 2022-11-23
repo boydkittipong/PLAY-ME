@@ -123,8 +123,8 @@ https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Tsnc156894.png",GEM
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE2OjA3IEFNJmhhc2hfdmFsdWU9NCt2RmtNVWpYN1hPc3RxWDJrYUIyUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8zMzQyNQ==
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r8/gem/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/aRhl156899.png",TRUE KOREAN MORE
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
