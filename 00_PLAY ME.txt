@@ -59,7 +59,7 @@
 {
 "name": "MOVIES ONLINE",
 "image": "https://www.i-pic.info/i/hFmP195354.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/09_MOVIES%20ONLINE.txt",
 "import": false
 },
 {
@@ -78,12 +78,6 @@
 "name": "RADIO ONLINE",
 "image": "https://www.i-pic.info/i/c74A195357.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
-"import": false
-},
-{
-"name": "10'S MOVIES",
-"image": "https://www.i-pic.info/i/rbtl200691.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/10'S%20MOVIES",
 "import": false
 },
 {
