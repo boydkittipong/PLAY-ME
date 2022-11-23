@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202211/13662CmuESJbQkxag7XtUk95wOhOAqiFYLcE9.jpg",Goal! III: Taking On The World | โกล์เกมหยุดโลก ภาค3
-https://www.doonung1234.com/movie/view/3360/Goal--III--Taking-On-The-World---%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%843
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202211/13540l0EBGwc37cMtRSF9mYFtbiCQzfOfYdBo.jpg",Smile | ยิ้มสยอง
+https://www.doonung1234.com/movie/view/3310/Smile---%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/TcPi2zjpDY88nJkllZrSCODHB5B77wwH1P62IY.jpg",Project Wolf Hunting | เรือคลั่งเกมล่าเดนมนุษย์
+https://www.doonung1234.com/movie/view/3311/Project-Wolf-Hunting---%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/p9qMZMhV99QkcVZbKeOPY99VnVhDsT1XMDOvL.jpg",The Wonder | เดอะ วันเดอร์
+https://www.doonung1234.com/movie/view/3366/The-Wonder---%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/p9qMZMhV99QkcVZbKeOPY99VnVhDsT1XMDOvL.jpg",The Neon Demon | สวยอันตราย
+https://www.doonung1234.com/movie/view/3371/The-Neon-Demon---%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2
+#EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3091s41y8kqogow48g.jpg",Lost Bullet แรงทะลุกระสุน (2020)
+https://www.doonung1234.com/movie/view/1264/Lost-Bullet-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99-(2020)-[-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/p9qMZMhV99QkcVZbKeOPY99VnVhDsT1XMDOvL.jpg",Lost Bullet 2: Back for More | แรงทะลุกระสุน 2
 https://www.doonung1234.com/movie/view/3346/Lost-Bullet-2--Back-for-More---%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99-2
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.png",Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ
