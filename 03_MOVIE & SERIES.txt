@@ -26,6 +26,9 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=htt
 #EXTVLCOPT:http-user-agent=exoplayer_video
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
 
+#EXTINF:-1  tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnsCz.png",TRUE FILM 2
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://edge-c2.onlineprostream.com:461/hmcb4rf66f-th1/hd-tfilm2_720/chunks.m3u8|Referer=https://dooball66.com/ดูทีวีออนไลน์/
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
