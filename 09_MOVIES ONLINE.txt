@@ -1,13 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/My-Name-Is-Vendetta-2022-%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.png",My Name Is Vendetta (2022) ในนามของความแค้น
+https://main.77player.xyz/m3u8/7ba7eba331669ea18c80f071/7ba7eba331669ea18c80f071438.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/12/The-Lake-2022-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC.png",The Lake (2022) บึงกาฬ
+https://xxx.77player.xyz/m3u8/0cf8c2f2ccfca54b61bb72d0/0cf8c2f2ccfca54b61bb72d0800.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/Project-Wolf-Hunting-2022-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C.png",Project Wolf Hunting (2022) เรือคลั่งเกมล่าเดนมนุษย์
+https://main.77player.xyz/m3u8/0d5054266151b1ad747ffe65/0d5054266151b1ad747ffe65438.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/Jaifu-Story-2022-%E0%B9%83%E0%B8%88%E0%B8%9F%E0%B8%B9-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88.png",Jaifu Story (2022) ใจฟู สตอรี่
+https://main.77player.xyz/m3u8/1115f53e76028fb664a4a639/1115f53e76028fb664a4a639438.m3u8
+#EXTINF:-1 tvg-logo="https://us-fbcloud.net/picpost/data/384/384124-62e0bacf6b0f6.n.jpg",Love Destiny 2 (2022) บุพเพสันนิวาส 2
+https://xxx.77player.xyz/m3u8/4bd903bb09b48334578b2e83/4bd903bb09b48334578b2e83800.m3u8
+#EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/bne5uwm1e6o84w0g0w.jpg",Mary Poppins Returns แมรี่ ป๊อบปิ้นส์ กลับมาแล้ว (2018)
+https://www.doonung1234.com/movie/view/3120/Mary-Poppins-Returns-%E0%B9%81%E0%B8%A1%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-(2018)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/The-Up-Rank-2022-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1.png",The Up Rank (2022) อาชญาเกม
 https://main.77player.xyz/m3u8/2f07611f2ef15c752becd04c/2f07611f2ef15c752becd04c438.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202211/13540l0EBGwc37cMtRSF9mYFtbiCQzfOfYdBo.jpg",Smile | ยิ้มสยอง
 https://www.doonung1234.com/movie/view/3310/Smile---%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/TcPi2zjpDY88nJkllZrSCODHB5B77wwH1P62IY.jpg",Project Wolf Hunting | เรือคลั่งเกมล่าเดนมนุษย์
 https://www.doonung1234.com/movie/view/3311/Project-Wolf-Hunting---%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C
-#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/p9qMZMhV99QkcVZbKeOPY99VnVhDsT1XMDOvL.jpg",The Wonder | เดอะ วันเดอร์
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/3Tam8E54KEMuf02UWfr8QC0cB2wi9W2VzCE5vn.jpg",The Wonder | เดอะ วันเดอร์
 https://www.doonung1234.com/movie/view/3366/The-Wonder---%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C
-#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/p9qMZMhV99QkcVZbKeOPY99VnVhDsT1XMDOvL.jpg",The Neon Demon | สวยอันตราย
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202211/13702ikruKWcsZBEgSZ0cKZq3whgCAW3FhuwC.jpg",The Neon Demon | สวยอันตราย
 https://www.doonung1234.com/movie/view/3371/The-Neon-Demon---%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2
 #EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3091s41y8kqogow48g.jpg",Lost Bullet แรงทะลุกระสุน (2020)
 https://www.doonung1234.com/movie/view/1264/Lost-Bullet-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99-(2020)-[-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]
