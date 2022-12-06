@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202212/14077stb9Ft1FkMRxz72rOWT8gZkPzDAUMA9u.jpg",Zack Snyder's Justice League
+https://www.doonung1234.com/movie/view/3459/Zack-Snyder's-Justice-League
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/11/My-Name-Is-Vendetta-2022-%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.png",My Name Is Vendetta (2022) ในนามของความแค้น
 https://main.77player.xyz/m3u8/7ba7eba331669ea18c80f071/7ba7eba331669ea18c80f071438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/12/The-Lake-2022-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC.png",The Lake (2022) บึงกาฬ
