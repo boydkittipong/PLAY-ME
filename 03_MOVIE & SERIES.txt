@@ -60,36 +60,6 @@ http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2e/HBOhits.png", HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2e/HBOhits.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hitsmovie/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/T8AR152036.png",CINEMAX
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDM6MDM6MTcgUE0maGFzaF92YWx1ZT1vRnZOcmhuWlZEUmFuRU5KU1NlcDFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzEzNzM4
-
-
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
 http://61.19.242.134/feed/202205171329/LC28/index.m3u8
