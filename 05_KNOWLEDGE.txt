@@ -1,21 +1,6 @@
 #EXTM3U
-
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185650animalshow.png",AnimalShow
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
-
-
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png",MYSCI
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==
-
-#EXTINF:-0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185502new-explorer.png",New_Explorer
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==
-
-
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
-https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",ANIMAL PLANET
 https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8|Referer=https://www.youdooball.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
