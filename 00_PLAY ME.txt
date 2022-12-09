@@ -99,7 +99,12 @@
 "url": "https://raw.githubusercontent.com/playlist-iptv/iptv/main/IPTV.M3U",
 "import": false
 },
-
+{
+"name": "THAI IPTV",
+"image": "https://sites.google.com/site/thaiiptv/_/rsrc/1416902096680/config/customLogo.gif?revision=14",
+"url": "http://m3u.at/thai",
+"import": false
+},
 
  
 ]
