@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.showbizjunkies.com/wp-content/uploads/2022/11/avatar-way-of-water-jake-poster.jpg",Avatar: The Way of Water
+http://51.79.209.223:1935/movie3/Avatar_The_Way_of_Water_2022/Avatar_The_Way_of_Water_2022_thr_v11.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/08/Avatar-2009-%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3.png",Avatar อวตาร
 https://main.77player.xyz/m3u8/dfe4cfdbe21f3c1f058a7bc4/dfe4cfdbe21f3c1f058a7bc4438.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202212/14310offDW5SExV8jc8c52pCpKwLqMMjOJPmF.jpg",The Assignment | วินาทีเด็ดหัวจารชนเหล็ก
