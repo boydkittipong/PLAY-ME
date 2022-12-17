@@ -101,8 +101,8 @@
 },
 {
 "name": "THAI IPTV",
-"image": "https://sites.google.com/site/thaiiptv/_/rsrc/1416902096680/config/customLogo.gif?revision=14",
-"url": "http://m3u.at/thai",
+"image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
+"url": "https://freenote.biz/raw/Ml9O2SsJ1U",
 "import": false
 },
 
