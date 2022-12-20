@@ -105,7 +105,12 @@
 "url": "https://freenote.biz/raw/plJSBR1D3U",
 "import": false
 },
-
+{
+"name": "THAI IPTV2",
+"image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
+"url": "https://freenote.biz/raw/8Qwg4snrsB",
+"import": false
+},
  
 ]
 }
