@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/sport/tpf4/chunks.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/sport/tpf4/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
@@ -92,7 +92,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m
 https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/chunks.m3u8|Referer=https://dooball2you.com/
+https://rr3ic3dndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1s.m3u8|Referer=https://dooball2you.com/tvonline/
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/ymaQ149388.png",TRUE SPORT 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/sport/truesporthd2/chunks.m3u8|Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/zodM149389.png",TRUE SPORT 3
