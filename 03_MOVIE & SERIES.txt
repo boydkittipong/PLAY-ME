@@ -7,13 +7,17 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
-
+#EXTINF:-1  tvg-logo="http://udoofree.com/cover/d6c9368f-1a96-4988-8517-1e97313027bd_original.jpg",TRUE FILM ASIAN
+http://57.128.137.73:9998/True_Film_Asia/tracks-v1a1/mono.m3u8?token=216d20e7a82248fb93255af7d2c28e6837dabbbd-5b1fe351e534df055f4335723b84a563-1672418480-1672407680 
+ 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
+#EXTINF:-1  tvg-logo="http://udoofree.com/images/channels/true-film-hd2.jpg",TRUE FILM 2
+http://57.128.137.73:9998/skysportmix/tracks-v1a1/mono.m3u8?token=aa0eb63b4bf284fb5b65e41092e0963aeec5a309-0c847337f7bf844bc06fd3fd211f9619-1672417447-1672406647
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -104,15 +108,16 @@ https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r8/gem/playlist
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/aRhl156899.png",TRUE KOREAN MORE
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE0OjU1IEFNJmhhc2hfdmFsdWU9b21hbVM4QmZJKzRMS1BmU3NEaldYUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNiZpZD1jaF82Nzg2OA==
+http://57.128.137.73:9998/True_Korean_More/tracks-v1a1/mono.m3u8?token=3ad83239a13f8ad6de88538ab9ec214d3f1fb9db-d5528b66abd9c148ae82b70a44c3eb04-1672418324-1672407524
 
 #EXTINF:-0  tvg-logo="https://www.i-pic.info/i/KJxH156890.png" ,TRUE ASIAN SERIES
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+http://57.128.137.73:9998/True_Asian_More/tracks-v1a1/mono.m3u8?token=8f496653a61c2d46ee048d904b33579c4f48c132-9fcac8fc7664ec77d6933b558091506b-1672418358-1672407558
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
-#EXTVLCOPT:http-referrer=https://555tv.online
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-https://555tv.online/player2.php?channel_code=TCM
+http://57.128.137.73:9998/True_Chinese_More/tracks-v1a1/mono.m3u8?token=7f1f39d63d47bfe146a9c8eac8705e0d2a698ae9-257970899458b85f2baa9d6ea86111bc-1672418390-1672407590
 
+#EXTINF:-0 tvg-logo="http://udoofree.com/images/channels/hbo_hits_asia.jpg",HBO HITS
+http://57.128.137.73:9998/hboh/tracks-v1a1/mono.m3u8?token=e97d5c41c9c0d7592e280a52e75d694521a2d51c-2449d99cfec78faab9523dfa72f3f395-1672418579-1672407779
