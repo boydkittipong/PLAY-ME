@@ -183,9 +183,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
 
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/FVze150029.png",SPORT TV 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/chunks.m3u8|Referer=https://ballmun.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/sport-inter/sporttv1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/i0jS150030.png",SPORT TV 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|Referer=https://ballmun.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/sport-inter/sporttv2/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
 #EXTVLCOPT:http-user-agent=exoplayer_video
