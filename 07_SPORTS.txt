@@ -189,19 +189,25 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/sport-inter/sport
 
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+http://57.128.137.73:9998/assp1/tracks-v1a1/mono.m3u8?token=8a448b69e5caeabe2f2786ad6218c5c9cf3ee3dd-1f63157239375ff572bed3eece7a3c1b-1672417763-1672406963
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+http://57.128.137.73:9998/assp2/tracks-v1a1/mono.m3u8?token=656cb7c56bf2b323175bd2f471bb27a5422c38f1-3f18c4fc70182078a39a6301141db3bd-1672417823-1672407023
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png",ASTRO SUPER SPORT 3
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+http://57.128.137.73:9998/assp3/tracks-v1a1/mono.m3u8?token=7cdcbd60c7745e9e4d87b931026911ab8ed973fc-13a69939afbc5c33c65a4768b3e7cbc3-1672417857-1672407057
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
+http://57.128.137.73:9998/assp4/preview.mp4?token=5f09ae18d1de2c0df23851e433ed89d2db1025df-29b8f5eec1dd384387b37315a395bb6b-1672417898-1672407098
+
+
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810",ASTRO SUPER SPORT 5
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://57.128.137.73:9998/assp5/tracks-v1a1/mono.m3u8?token=42759b562c226177d08d35f020806eb49d2a3b35-c36da40927536a60e21281f136d3a728-1672417923-1672407123
+
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
@@ -285,4 +291,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png",UNIFI_SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg",Sky Sports Mix
+http://57.128.137.73:9998/skysportmix/tracks-v1a1/mono.m3u8?token=aa0eb63b4bf284fb5b65e41092e0963aeec5a309-0c847337f7bf844bc06fd3fd211f9619-1672417447-1672406647
 
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsFootball_201708",Sky Sports Football
+http://57.128.137.73:9998/skysportfootball/tracks-v1a1/mono.m3u8?token=988a75a16c212e474eede87aa1e369ec101ba88d-c6826090ff97e425138b843c262cf656-1672417629-1672406829
