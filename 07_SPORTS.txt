@@ -294,5 +294,5 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg",Sky Sports Mix
 http://57.128.137.73:9998/skysportmix/tracks-v1a1/mono.m3u8?token=aa0eb63b4bf284fb5b65e41092e0963aeec5a309-0c847337f7bf844bc06fd3fd211f9619-1672417447-1672406647
 
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsFootball_201708",Sky Sports Football
-http://57.128.137.73:9998/skysportfootball/tracks-v1a1/mono.m3u8?token=988a75a16c212e474eede87aa1e369ec101ba88d-c6826090ff97e425138b843c262cf656-1672417629-1672406829
+#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-124823-tv-station_Sport-1+-(DE).png",Sport-1+
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sport1plus/chunks.m3u8?nimblesessionid=155630528&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgNToxMjoxMSBQTSZoYXNoX3ZhbHVlPVJ2SXVaWkJ4L2J1RmtFeW81S1B0WEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD05ODA5NDk=
