@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/01/Narvik-2023-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%84.jpg",Narvik (2023) นาร์วิค
+https://main.77player.xyz/m3u8/815adb92cfec368bb81c0c89/815adb92cfec368bb81c0c89438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/01/The-Last-of-Us-2023.png",The Last of Us (2023)
 https://main.77player.xyz/m3u8/ae0daf1d8f760a85597a7b2b/ae0daf1d8f760a85597a7b2b438.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202301/14830TlyjyMxTIra1YwEsrYVIDJoYik3lhLWY.jpg",The Frighteners | สามผีสี่เผ่าเขย่าโลก
