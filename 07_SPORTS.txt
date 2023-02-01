@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4512.png",trueidstation
+https://168dooball.com/livestream/?ch=trueidstation
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4512.png",trueidstation
+https://rr5---sn-w5nuxa-c33lk-27.googleuservideo.com/168db_e2/trueidstation/chunks.m3u8?nimblesessionid=5000753&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjMgOTo1OToyMiBBTSZoYXNoX3ZhbHVlPUhKbnFFdnRLVGRGNUk0TkJtL3NPNWc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD03OTQ2NzA=
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
