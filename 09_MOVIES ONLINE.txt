@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/Lockwood-Co-1-200x300.webp",Lockwood & Co. (2023) ล็อควู้ด บริษัทรับล่าผี EP1
+https://master2.mesifldd.xyz/media/63d399e5726a1qPd/720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/Lockwood-Co-1-200x300.webp",Lockwood & Co. (2023) ล็อควู้ด บริษัทรับล่าผี EP2
+https://master2.mesifldd.xyz/media/63d39cf31de2d0LY/720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/%E0%B9%81%E0%B8%AD%E0%B8%99-2022-Faces-of-Anne-209x300.webp",แอน (2022) Faces of Anne
+https://master2.ataxbayle.xyz/media/63d2218879804xbF/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/01/Narvik-2023-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%84.jpg",Narvik (2023) นาร์วิค
 https://main.77player.xyz/m3u8/815adb92cfec368bb81c0c89/815adb92cfec368bb81c0c89438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/01/The-Last-of-Us-2023.png",The Last of Us (2023) EP1
