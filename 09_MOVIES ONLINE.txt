@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/02/REMEMBER-2023-%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B8%A8%E0%B8%9E%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.png",RE/MEMBER (2023) ตามล่า ศพสยอง
+https://xxx.77player.xyz/m3u8/e93d3bad158f198f4a0eac54/e93d3bad158f198f4a0eac54800.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/%E0%B9%81%E0%B8%AD%E0%B8%99-2022-Faces-of-Anne-209x300.webp",แอน (2022) Faces of Anne
 https://master2.ataxbayle.xyz/media/63d2218879804xbF/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/01/Narvik-2023-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%84.jpg",Narvik (2023) นาร์วิค
