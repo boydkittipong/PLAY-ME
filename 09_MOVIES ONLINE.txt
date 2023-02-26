@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202302/15639J38PonRXXc2L3rkjTGgQqh17tHDSKDOi.jpg",Carter คาร์เตอร์ (2022) พากย์ไทย
-https://1112hd.com/carter/
-#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202302/15639J38PonRXXc2L3rkjTGgQqh17tHDSKDOi.jpg",Carter คาร์เตอร์ (2022) พากย์ไทย
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2V17juFkL39sPcn7XlbIBG/fce5e21831e00d56b78a1a89028d6fb0/TH_Carter_Teaser_Cross_Vertical_RGB_PRE.jpeg",Carter คาร์เตอร์ (2022) พากย์ไทย
 https://xxx.77player.xyz/m3u8/59c71299bfcb4498d6a950b4/59c71299bfcb4498d6a950b4800.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202302/15639J38PonRXXc2L3rkjTGgQqh17tHDSKDOi.jpg",OMG! รักจังวะ..ผิดจังหวะ | OMG! Oh My Girl
 https://www.doonung1234.com/movie/view/3976/OMG--%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B0..%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0---OMG--Oh-My-Girl
