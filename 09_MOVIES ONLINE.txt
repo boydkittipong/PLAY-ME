@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/02/The-Antique-Shop-2022-200x300.jpg",The Antique Shop (2022)
+https://master3.baraq.xyz/media/63f7080820ead1KP/1080/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2V17juFkL39sPcn7XlbIBG/fce5e21831e00d56b78a1a89028d6fb0/TH_Carter_Teaser_Cross_Vertical_RGB_PRE.jpeg",Carter คาร์เตอร์ (2022) พากย์ไทย
 https://xxx.77player.xyz/m3u8/59c71299bfcb4498d6a950b4/59c71299bfcb4498d6a950b4800.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202302/15639J38PonRXXc2L3rkjTGgQqh17tHDSKDOi.jpg",OMG! รักจังวะ..ผิดจังหวะ | OMG! Oh My Girl
