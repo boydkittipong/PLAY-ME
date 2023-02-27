@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/05/I-Saw-The-Devil-2010-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%94.png",I Saw The Devil (2010) เกมโหดล่าโหด
+https://xxx.77player.xyz/ioshls/06c46b700fcb70080de7d0ec6ea1359b/06c46b700fcb70080de7d0ec6ea1359b.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/10/Halloween-Ends-2022-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%81-%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.png",Halloween Ends (2022) ปิดฉาก ฮาโลวีน
 https://main.77player.xyz/m3u8/927a590c9e47c5981fc69022/927a590c9e47c5981fc69022438.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/Plane2-200x300.webp",Plane (2023)
