@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/10/Halloween-Ends-2022-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%81-%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.png",Halloween Ends (2022) ปิดฉาก ฮาโลวีน
+https://main.77player.xyz/m3u8/927a590c9e47c5981fc69022/927a590c9e47c5981fc69022438.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/01/Plane2-200x300.webp",Plane (2023)
 https://master1.glacis.xyz/media/63e0976f6f907vHg/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/02/The-Antique-Shop-2022-200x300.jpg",The Antique Shop (2022)
@@ -35,8 +37,6 @@ https://master1.grancofdew.xyz/media/63f3414776fb4pyt/1080/hls/index.m3u8
 https://master2.mesifldd.xyz/media/63fc46325ce3ctFq/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202301/14830TlyjyMxTIra1YwEsrYVIDJoYik3lhLWY.jpg",The Frighteners | สามผีสี่เผ่าเขย่าโลก
 https://www.doonung1234.com/movie/view/3703/The-Frighteners---%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%9C%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81
-#EXTINF:-1 tvg-logo="https://dunungonline.com/wp-content/uploads/2022/05/MOONFALL-2022.jpg",Moonfall (2022) วันวิบัติจันทร์ถล่มโลก
-https://master2.ataxbayle.xyz/media/63a940f1ab4afvaG/1080/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://dunungonline.com/wp-content/uploads/2022/05/MOONFALL-2022.jpg",Moonfall (2022) วันวิบัติจันทร์ถล่มโลก
 https://main.77player.xyz/m3u8/4de92597266775dd96628ef0/4de92597266775dd96628ef0438.m3u8
 #EXTINF:-1 tvg-logo="https://www.showbizjunkies.com/wp-content/uploads/2022/11/avatar-way-of-water-jake-poster.jpg",Avatar: The Way of Water
