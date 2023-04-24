@@ -89,7 +89,7 @@
 {
 "name": "PLAYIDTVTV",
 "image": "https://lh3.googleusercontent.com/ca53TMz0s5aOATM4HV8oG0eFQZvMGDiAMaMLJAV-rhwM1HFdl4EFrhqNwkvqZ5NI7ucq=w300",
-"url": "https://pastebin.com/raw/H8nF9bSs",
+"url": "https://dl.dropboxusercontent.com/s/v63aervv93l2cq1/playidtvlink.w3u",
 "info": "เพลย์ลิสต์รายการทีวีสด",
 "import": false
 },
