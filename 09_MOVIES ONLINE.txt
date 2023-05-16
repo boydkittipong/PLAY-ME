@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17208ZJVd1cgBGDMuUD091esnX8QwdZqwOMPf.jpg.webp",Air | แอร์ แผนล่าลายเซ็นยอดตำนาน
+https://www.doonung1234.com/movie/view/4129/Air---%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17092qV4Ozmr058jqzjGC6k0t5HqDZoJ7qlVc.jpg.webp",Guardians of the Galaxy Volume 3 | รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
 https://www.doonung1234.com/movie/view/4121/Guardians-of-the-Galaxy-Volume-3---%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-3-[%E0%B8%8B%E0%B8%B9%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2]
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17187u6jJprfDwseEOfmHEPPMwz6YaDG0GH0U.jpg.webp",You & Me & Me เธอกับฉันกับฉัน
