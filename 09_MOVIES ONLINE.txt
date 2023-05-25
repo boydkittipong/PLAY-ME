@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/Tid-Noii-2023-%E0%B8%97%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.jpg",Tid-Noii (2023) ทิดน้อย
+https://main.77player.xyz/m3u8/5020b8f843ba953474c71a9e/5020b8f843ba953474c71a9e168.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17224UIHVl87oRBf3gpXWazvXNPghJZv4tPhZ.jpg.webp",The Mother | มือสังหารหญิง
 https://www.doonung1234.com/movie/view/4130/The-Mother---%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87
 
