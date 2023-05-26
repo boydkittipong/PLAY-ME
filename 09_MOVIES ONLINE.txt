@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230519195130ofDT4iBEsZC7GX6DJ213K2vk84l.jpg",ไอ้ไข่ เด็กวัดเจดีย์ (2023)
 https://streamhls.com/files/4375fbb1270d9c8b63b17ff29d8a1d18_original.txt
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230519195130ofDT4iBEsZC7GX6DJ213K2vk84l.jpg",ไอ้ไข่ เด็กวัดเจดีย์ (2023)
+https://www.9nunghd.com/ai-kai-wat-chedi-boy-2023-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%84%e0%b8%82%e0%b9%88-%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%88%e0%b8%94%e0%b8%b5%e0%b8%a2/
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220717123541di00XNdGu4Gmo4BHaju7hDQldrm.jpg",The Black Phone สายหลอน ซ่อนวิญญาณ (2021)
 https://m1free.inwstream.com:1936/movie3/The_Black_Phone_2021/The_Black_Phone_2021_th_1080p.mp4/chunk.m3u8?nimblesessionid=24072762&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDk6MzY6MzkgQU0maGFzaF92YWx1ZT03dGRRVHhBRmdDZUR2aE5NZmRVeWdBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/04/LEIO-2022-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg",LEIO (2022) โคตรแย้ยักษ์
