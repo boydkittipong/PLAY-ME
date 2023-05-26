@@ -10,7 +10,7 @@ http://203.154.243.31:8081/live/hisport/index.m3u8|User-Agent=ProPlayer
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TIF0152043.png",FARM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8?nimblesessionid=5480010&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDk6NDY6MTEgQU0maGFzaF92YWx1ZT1mbEZYb2hMV3pxbEJRUTB3NEEvcUdBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/hJ1N152060.png",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ELdr152038.png",CABLE 37 HD
