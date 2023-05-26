@@ -120,12 +120,6 @@
 {
 "name": "Wiseplay Online",
 "image": "https://sv1.picz.in.th/images/2023/01/24/L7kM3z.jpg",
-"url": "https://pastebin.com/raw/6bpredkd",
-"import": false
-},
-{
-"name": "Wiseplay Online",
-"image": "https://sv1.picz.in.th/images/2023/01/24/L7kM3z.jpg",
 "url": "https://pastebin.com/raw/yfW1Rpyy",
 "import": false
 },
