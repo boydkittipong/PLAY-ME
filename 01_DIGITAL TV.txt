@@ -31,7 +31,7 @@ https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
