@@ -11,8 +11,8 @@ https://www.doonung1234.com/movie/view/4157/The-Little-Mermaid---%E0%B9%80%E0%B8
 https://www.doonung1234.com/movie/view/567/American-Animals-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89-(2018)
 #EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/riz66crd3c0ggcoosc.jpeg",Hereditary กรรมพันธุ์นรก (2018)
 https://www.doonung1234.com/movie/view/248/Hereditary-%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81-(2018)
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/The-Tank-2023.jpg",The Tank (2023)
-https://main.77player.xyz/m3u8/e4619bd336978316057ad985/e4619bd336978316057ad985438.m3u8
+#EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2021/11/Red-Notice-2021-203x300.jpg",Red Notice (2021)
+https://master3.baraq.xyz/media/61bc0fcc572a1Fvo/1080/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17490cuMfudylupna2cJn2tV7yMHD4vrLIqbO.jpg.webp",Blood & Gold | ทองเปื้อนเลือด
 https://www.doonung1234.com/movie/view/4155/Blood---Gold---%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94nimblesessionid=24072762&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDk6MzY6MzkgQU0maGFzaF92YWx1ZT03dGRRVHhBRmdDZUR2aE5NZmRVeWdBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/04/LEIO-2022-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg",LEIO (2022) โคตรแย้ยักษ์
