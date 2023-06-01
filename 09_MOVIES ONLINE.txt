@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230519195130ofDT4iBEsZC7GX6DJ213K2vk84l.jpg",ไอ้ไข่ เด็กวัดเจดีย์ (2023)
-https://streamhls.com/files/4375fbb1270d9c8b63b17ff29d8a1d18_original.txt
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230519195130ofDT4iBEsZC7GX6DJ213K2vk84l.jpg",ไอ้ไข่ เด็กวัดเจดีย์ (2023)
-https://www.9nunghd.com/ai-kai-wat-chedi-boy-2023-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%84%e0%b8%82%e0%b9%88-%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%88%e0%b8%94%e0%b8%b5%e0%b8%a2/
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220717123541di00XNdGu4Gmo4BHaju7hDQldrm.jpg",The Black Phone สายหลอน ซ่อนวิญญาณ (2021)
-https://m1free.inwstream.com:1936/movie3/The_Black_Phone_2021/The_Black_Phone_2021_th_1080p.mp4/chunk.m3u8?nimblesessionid=24072762&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDk6MzY6MzkgQU0maGFzaF92YWx1ZT03dGRRVHhBRmdDZUR2aE5NZmRVeWdBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/IH7wKfoZacJejQWJ3120eBW7ux13pLE2OhkzeQ.jpg.webp",The Little Mermaid | เงือกน้อยผจญภัย
+https://www.doonung1234.com/movie/view/4157/The-Little-Mermaid---%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2-[V2-%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2]
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/The-Tank-2023.jpg",The Tank (2023)
+https://main.77player.xyz/m3u8/e4619bd336978316057ad985/e4619bd336978316057ad985438.m3u8
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202305/17490cuMfudylupna2cJn2tV7yMHD4vrLIqbO.jpg.webp",Blood & Gold | ทองเปื้อนเลือด
+https://www.doonung1234.com/movie/view/4155/Blood---Gold---%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94nimblesessionid=24072762&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDk6MzY6MzkgQU0maGFzaF92YWx1ZT03dGRRVHhBRmdDZUR2aE5NZmRVeWdBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/04/LEIO-2022-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg",LEIO (2022) โคตรแย้ยักษ์
 https://main.77player.xyz/m3u8/7955e8f44a47031e315c7a86/7955e8f44a47031e315c7a86438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/Tid-Noii-2023-%E0%B8%97%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.jpg",Tid-Noii (2023) ทิดน้อย
