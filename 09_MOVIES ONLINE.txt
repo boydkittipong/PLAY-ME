@@ -6,6 +6,8 @@ https://master1.glacis.xyz/media/644113ec97785qGF/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/04/65-200x300.webp",65 (2023) 65 ผจญนรกล้านปี
 https://master2.ataxbayle.xyz/media/6447968a6d7988ai/720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/IH7wKfoZacJejQWJ3120eBW7ux13pLE2OhkzeQ.jpg.webp",The Little Mermaid | เงือกน้อยผจญภัย
+https://www.9nunghd.com/the-little-mermaid-2023-%e0%b9%80%e0%b8%87%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%9c%e0%b8%88%e0%b8%8d%e0%b8%a0%e0%b8%b1%e0%b8%a2/
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/IH7wKfoZacJejQWJ3120eBW7ux13pLE2OhkzeQ.jpg.webp",The Little Mermaid | เงือกน้อยผจญภัย
 https://www.doonung1234.com/movie/view/4157/The-Little-Mermaid---%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2-[V2-%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2]
 #EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/paon85czflcos0k4wc.jpg",American Animals รวมกันปล้น อย่าให้ใครจับได้ (2018)
 https://www.doonung1234.com/movie/view/567/American-Animals-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89-(2018)
