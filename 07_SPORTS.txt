@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/Fa7MQb.jpg",SK1
+https://r3-sn-5fo-c37ed8.googleuservideo.com/ball8k_t4/sportklub1slovenia/chunks.m3u8?nimblesessionid=542486&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjMgOTozMzo1MyBBTSZoYXNoX3ZhbHVlPVg4TjBWL3E3ZCtlUG9vQm96YzB5V1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0zNzEzMzc=
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
