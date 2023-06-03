@@ -108,7 +108,7 @@
 {
 "name": "THAI IPTV2",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://freenote.biz/raw/8Qwg4snrsB",
+"url": "https://freenote.biz/raw/3o3c1W4nU0",
 "import": false
 },
 {
