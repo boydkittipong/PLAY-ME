@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/FaBBx9.png",Bugaboo VNL
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_10.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/Fa7MQb.jpg",SK1
 https://r3-sn-5fo-c37ed8.googleuservideo.com/ball8k_t4/sportklub1slovenia/chunks.m3u8?nimblesessionid=542486&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjMgOTozMzo1MyBBTSZoYXNoX3ZhbHVlPVg4TjBWL3E3ZCtlUG9vQm96YzB5V1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0zNzEzMzc=
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
