@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202306/17760FIKHNf7V5WxzWZmVTiTEqsJEcf7UZovr.jpg.webp",Ride On | ควบสู้ฟัด
+https://www.doonung1234.com/movie/view/4175/Ride-On---%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%94
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2022/05/Everything-Everywhere-All-at-Once-2022-%E0%B8%8B%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-233x300.jpeg",Everything Everywhere All at Once (2022) ซือเจ๊ทะลุมัลติเวิร์ส
 https://master1.glacis.xyz/media/628507eb33365Og3/1080/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://newseries-hd.com/wp-content/uploads/2023/04/Bua-Pun-Fun-Yup-2022-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%99%E0%B8%9F%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%9A-200x300.jpeg",Bua Pun Fun Yup (2022) บัวผันฟันยับ
