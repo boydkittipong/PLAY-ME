@@ -100,7 +100,7 @@
 "import": false
 },
 {
-"name": "THAI IPTV",
+"name": "MOVIE",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
 "url": "https://pastebin.com/raw/7ET32wf4",
 "import": false
