@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://doonungdee.online/wp-content/uploads/2019/06/526.jpg",Titanic ไททานิค
+https://cdn2.cdn9x.com/4qlr3ahn/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Titanic-%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84.png",Titanic ไททานิค
+https://freeball86.com/4/M12736.mp4
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Titanic-%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84.png",Titanic ไททานิค
 https://www.678moviehd.com/titanic-1997-%e0%b9%84%e0%b8%97%e0%b8%97%e0%b8%b2%e0%b8%99%e0%b8%b4%e0%b8%84/
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Titanic-%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84.png",Titanic ไททานิค
