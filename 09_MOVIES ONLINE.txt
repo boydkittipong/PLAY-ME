@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Titanic-%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84.png",Titanic ไททานิค
+https://www.678moviehd.com/titanic-1997-%e0%b9%84%e0%b8%97%e0%b8%97%e0%b8%b2%e0%b8%99%e0%b8%b4%e0%b8%84/
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Titanic-%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84.png",Titanic ไททานิค
+https://xxx.77player.xyz/ioshls/e2d62bff4338a60ef506b6f2885a4149/e2d62bff4338a60ef506b6f2885a4149.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202306/17801GBJ0yRxUWCtY4g5gvxBId4SHILDXA9yd.jpg.webp",Extraction 2 | คนระห่ำภารกิจเดือด 2
 https://www.doonung1234.com/movie/view/4182/Extraction-2---%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-2
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202306/17760FIKHNf7V5WxzWZmVTiTEqsJEcf7UZovr.jpg.webp",Ride On | ควบสู้ฟัด
