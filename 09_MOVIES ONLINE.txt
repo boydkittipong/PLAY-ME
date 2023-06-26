@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/un78onnwwq8ogcs8g.png",Adrift รักเธอฝ่าเฮอร์ริเคน
+https://www.doonung1234.com/movie/view/901/Adrift-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99-(2018)
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_-B4J-PrKu1mLCTlfuKDSKvDoqyqpcBbGw&usqp=CAU",LOVE เลยร้อยเอ็ด
 https://cdn9x.com/playlist/update_hcmvgi53.m3u8
 #EXTINF:-1 tvg-logo="https://s3.bear-tv.com/assets/images/poster/a/compressed/202306/17792uYWz46crtUq9zeMpJE7VAvgzfYHNZI5D.jpg.webp",The Flash | เดอะ แฟลช
