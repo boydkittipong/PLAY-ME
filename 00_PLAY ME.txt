@@ -124,5 +124,12 @@
 "import": false
 },
 
+{
+"name": "cartoon Online",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQlqtpXhPOUcTteE21q_soTCAEi-XfWdutg&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Legion1907/glowing-barnacle/m3u/animehdzeroo-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.m3u",
+"import": false
+},
+
 ]
 }
