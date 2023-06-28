@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2020/03/How-It-Ends-2018-%E0%B8%AE%E0%B8%B2%E0%B8%A7-%E0%B8%AD%E0%B8%B4%E0%B8%97-%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%AA.png",How It Ends (2018) ฮาว อิท เอนด์ส
+https://xxx.77player.xyz/ioshls/48a6c49d441fb9e16ce99b7a4865ea31/48a6c49d441fb9e16ce99b7a4865ea31.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/02/The-33-2015-33-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%81-200-%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99-1.png",The 33 (2015) 33 ใต้นรก 200 ชั้น
 https://xxx.77player.xyz/ioshls/5617e99e61b3da85fbbc80e1647bcbfd/5617e99e61b3da85fbbc80e1647bcbfd.m3u8
 #EXTINF:-1 tvg-logo="https://doonungdee.online/wp-content/uploads/2019/04/75.jpg",Life of Pi ชีวิตอัศจรรย์ของพาย (2012)
