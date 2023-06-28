@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/02/The-33-2015-33-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%81-200-%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99-1.png",The 33 (2015) 33 ใต้นรก 200 ชั้น
+https://xxx.77player.xyz/ioshls/5617e99e61b3da85fbbc80e1647bcbfd/5617e99e61b3da85fbbc80e1647bcbfd.m3u8
 #EXTINF:-1 tvg-logo="https://doonungdee.online/wp-content/uploads/2019/04/75.jpg",Life of Pi ชีวิตอัศจรรย์ของพาย (2012)
 https://cdn5.cdn9x.com/ddo5dtgs/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/4s25vwjmh8yscc0ko.jpg",The Platform เดอะ แพลตฟอร์ม (2019)
