@@ -123,7 +123,12 @@
 "url": "https://pastebin.com/raw/yfW1Rpyy",
 "import": false
 },
-
+{
+"name": "Free For You",
+"image": "https://www.energie.cz/wp-content/uploads/2021/07/freeforyou.png",
+"url": "https://raw.githubusercontent.com/Infinity-000/2/master/freeforyou.xml",
+"import": false
+},
 {
 "name": "cartoon Online",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQlqtpXhPOUcTteE21q_soTCAEi-XfWdutg&usqp=CAU",
