@@ -141,7 +141,12 @@
 "url": "https://pastebin.com/raw/YpDkAZPg",
 "import": false
 },
-
+{
+"name": "luxDu CHANEL",
+"image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
+"url": "https://pastebin.com/raw/YpDkAZPg",
+"import": false
+},
 
 ]
 }
