@@ -144,7 +144,7 @@
 {
 "name": "luxDu CHANEL",
 "image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
+"url": "https://docs.google.com/uc?export=download&id=1WnHz2dDYexIuW2tpLXpAYRKBFzhpUDro",
 "import": false
 },
 
