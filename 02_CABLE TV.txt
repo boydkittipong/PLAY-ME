@@ -76,3 +76,56 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-MVLOA.png",MVLAO
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1708989851.m3u8
 
+#EXTINF:-1,UMI Cartoon
+http://203.154.243.89:28010/pa/umi.ts
+#EXTINF:-1,H channel
+http://203.154.243.89:28010/pa/hchannel.ts
+#EXTINF:-1,Hi News
+http://203.154.243.89:28010/pa/hinews.ts
+#EXTINF:-1,Universal
+http://203.154.243.89:28010/pa/universal.ts
+#EXTINF:-1,Ping
+http://203.154.243.89:28010/pa/ping.ts
+#EXTINF:-1,M2 Jazz
+http://203.154.243.89:28010/pa/m4.ts
+#EXTINF:-1,Amazing Channel
+http://203.154.243.89:28010/pa/amazing.ts
+#EXTINF:-1,Animal world
+http://203.154.243.89:28010/pa/animal.ts
+#EXTINF:-1,Science world
+http://203.154.243.89:28010/pa/sci.ts
+#EXTINF:-1,Snooker
+http://203.154.243.89:28010/pa/snooker.ts
+#EXTINF:-1,WTB
+http://203.154.243.89:28010/pa/wtb.ts
+#EXTINF:-1,Baby Channel
+http://203.154.243.88:18005/tipcable/baby
+#EXTINF:-1,NatgeoGraphics
+http://203.154.243.88:18005/tipcable/natgeo
+#EXTINF:-1,iZaa
+http://203.154.243.89:28007/mss/izaa
+#EXTINF:-1,Series
+http://203.154.243.89:28007/mss/series
+#EXTINF:-1,Series
+http://203.154.243.89:28008/nakhon/series
+#EXTINF:-1,เพลงจีน
+http://203.154.243.89:28008/nakhon/nongmhui
+#EXTINF:-1,นครเพลง
+http://203.154.243.89:28008/nakhon/nakhonplange
+#EXTINF:-1,มนต์เพลง
+http://203.154.243.89:28008/nakhon/monplange
+#EXTINF:-1,NBA Oneshot
+http://203.154.243.89:28008/nakhon/nba
+#EXTINF:-1,Golf
+http://203.154.243.89:28008/nakhon/golf
+#EXTINF:-1,astro1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1,astro2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1,astro3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1,astro4
+http://203.154.243.89:21204/nakhon
+#EXTINF:-1,astro5
+http://203.154.243.88:11088/hi/foxsports2
+
