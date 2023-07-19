@@ -120,7 +120,7 @@
 {
 "name": "Wiseplay Online",
 "image": "https://sv1.picz.in.th/images/2023/01/24/L7kM3z.jpg",
-"url": "https://freenote.biz/raw/r16EDv9t9A",
+"url": "https://yamcode.com/raw/thai-iptv",
 "import": false
 },
 {
