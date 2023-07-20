@@ -118,9 +118,9 @@
 "import": false
 },
 {
-"name": "Wiseplay Online",
-"image": "https://sv1.picz.in.th/images/2023/01/24/L7kM3z.jpg",
-"url": "https://yamcode.com/raw/thai-iptv",
+"name": "Movie Channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiY8kA9bvJesP3mEnV21O2FXoCTVq-wRSdw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/Movie%20Channel",
 "import": false
 },
 {
