@@ -142,9 +142,9 @@
 "import": false
 },
 {
-"name": "luxDu CHANEL",
-"image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
-"url": "https://docs.google.com/uc?export=download&id=1WnHz2dDYexIuW2tpLXpAYRKBFzhpUDro",
+"name": "TV+หนัง",
+"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
 "import": false
 },
 
