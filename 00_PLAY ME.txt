@@ -59,7 +59,7 @@
 {
 "name": "MOVIES ONLINE",
 "image": "https://www.i-pic.info/i/hFmP195354.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/09_MOVIES%20ONLINE.txt",
+"url": "https://freenote.biz/raw/LxM1qy8cP1",
 "import": false
 },
 {
