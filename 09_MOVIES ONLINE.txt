@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2-3-300x450.jpg",The Equalizer 3 (2023) มัจจุราชไร้เงา 3
+https://main.77player.xyz/m3u8/307d8f75678e8aa6e6219ce5/307d8f75678e8aa6e6219ce5438.m3u8
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-4-300x450.jpg",Expend4bles (2023) โคตรคนทีมมหากาฬ 4
 https://main.77player.xyz/m3u8/60db33dc404cae5b189e703c/60db33dc404cae5b189e703c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/07/Paranormal-Activity-Next-of-Kin-2021.png",Paranormal Activity Next of Kin (2021)
