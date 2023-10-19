@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-4-300x450.jpg",Expend4bles (2023) โคตรคนทีมมหากาฬ 4
+https://main.77player.xyz/m3u8/60db33dc404cae5b189e703c/60db33dc404cae5b189e703c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/07/Paranormal-Activity-Next-of-Kin-2021.png",Paranormal Activity Next of Kin (2021)
 https://main.77player.xyz/m3u8/6cc7310d3a175326af26ebfc/6cc7310d3a175326af26ebfc438.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/04/Infinite-Storm-2022-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9F%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%A1.png",Infinite Storm (2022) อินฟีนิตี้ สตรอม
