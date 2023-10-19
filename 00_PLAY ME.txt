@@ -71,7 +71,7 @@
 {
 "name": "NETFLX",
 "image": "https://www.i-pic.info/i/28vw195356.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/DOOFREE4K",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/09_MOVIES%20ONLINE.txt",
 "import": false
 },
 {
