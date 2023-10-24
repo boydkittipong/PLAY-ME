@@ -43,3 +43,13 @@ https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+
