@@ -25,89 +25,21 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.offidocs.com/images/7flixicon.jpg",7 FLIX
-
-
+https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/FN6v169687.png",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9umJ169690.png",SUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0",MOVIES WORLD 1 Sub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+#EXTINF:-1 tvg-id="moviesworld2" tvg-name="MOVIESWORLD2" tvg-logo="https://dl.dropbox.com/s/nsw4nfi4o5b94ko/moviesworld2.jpg?dl=0",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ngewvm09401fdoo/moviesworld3.jpg?dl=0",MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MHl0169689.png",SANOOK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC53/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oGck169688.png",SAMURAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
-http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS TV
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
-http://61.19.242.134/feed/202205171329/LC28/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.i-pic.info/i/rkIZ161112.png",KKTV (Soundtrack)
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn6.goprimetime.info/feed/202205171329/LC26/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/l7oM156906.png",TVN
-https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pA5Z156898.png",KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/440px-KBC_Gwangju_Broadcasting_logo.svg.png",KBC SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
-https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
-https://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#EXTINF:-0  tvg-logo="https://www.i-pic.info/i/OUYP156891.png",CCM
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==
-
-#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Tsnc156894.png",GEM
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r8/gem/playlist.m3u8|Referer=https://www.doofootball.com/dootv/live/
-
-#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/aRhl156899.png",TRUE KOREAN MORE
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-http://57.128.137.73:9998/True_Korean_More/tracks-v1a1/mono.m3u8?token=3ad83239a13f8ad6de88538ab9ec214d3f1fb9db-d5528b66abd9c148ae82b70a44c3eb04-1672418324-1672407524
-
-#EXTINF:-0  tvg-logo="https://www.i-pic.info/i/KJxH156890.png" ,TRUE ASIAN SERIES
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=exoplayer_video
-http://57.128.137.73:9998/True_Asian_More/tracks-v1a1/mono.m3u8?token=8f496653a61c2d46ee048d904b33579c4f48c132-9fcac8fc7664ec77d6933b558091506b-1672418358-1672407558
-
-#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-http://57.128.137.73:9998/True_Chinese_More/tracks-v1a1/mono.m3u8?token=7f1f39d63d47bfe146a9c8eac8705e0d2a698ae9-257970899458b85f2baa9d6ea86111bc-1672418390-1672407590
-
-#EXTINF:-0 tvg-logo="http://udoofree.com/images/channels/hbo_hits_asia.jpg",HBO HITS
-http://57.128.137.73:9998/hboh/tracks-v1a1/mono.m3u8?token=e97d5c41c9c0d7592e280a52e75d694521a2d51c-2449d99cfec78faab9523dfa72f3f395-1672418579-1672407779
