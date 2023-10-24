@@ -7,48 +7,38 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
-#EXTINF:-1  tvg-logo="http://udoofree.com/cover/d6c9368f-1a96-4988-8517-1e97313027bd_original.jpg",TRUE FILM ASIAN
-http://57.128.137.73:9998/True_Film_Asia/tracks-v1a1/mono.m3u8?token=216d20e7a82248fb93255af7d2c28e6837dabbbd-5b1fe351e534df055f4335723b84a563-1672418480-1672407680 
- 
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
+
+ #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
-#EXTINF:-1  tvg-logo="http://udoofree.com/images/channels/true-film-hd2.jpg",TRUE FILM 2
-http://57.128.137.73:9998/skysportmix/tracks-v1a1/mono.m3u8?token=aa0eb63b4bf284fb5b65e41092e0963aeec5a309-0c847337f7bf844bc06fd3fd211f9619-1672417447-1672406647
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vhLk148483.png",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/847655346835345408/LMtLVgDa_400x400.jpg",MOVIES WORLD 1
-https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.offidocs.com/images/7flixicon.jpg",7 FLIX
-https://cdn6.goprimetime.info/feed/202205171929/chzeenung/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8|Referer=https://www.inwiptv.com/demo.php
+
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/FN6v169687.png",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9umJ169690.png",SUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MHl0169689.png",SANOOK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC53/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC53/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oGck169688.png",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
