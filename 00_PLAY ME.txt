@@ -93,12 +93,7 @@
 "info": "เพลย์ลิสต์รายการทีวีสด",
 "import": false
 },
-{
-"name": "IPTV",
-"image": "https://play-lh.googleusercontent.com/u7UPJCJK_iZoiQQbo3L77rnrZSBw_b9SgzhyIapGpQ_5ZvB4T4Aigk4y0Mm1rIEDwQ",
-"url": "https://pastebin.com/raw/3BtWnCUw",
-"import": false
-},
+
 {
 "name": "MOVIE",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
