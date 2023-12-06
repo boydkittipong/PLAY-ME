@@ -119,9 +119,9 @@
 "import": false
 },
 {
-"name": "Free For You",
-"image": "https://www.energie.cz/wp-content/uploads/2021/07/freeforyou.png",
-"url": "https://raw.githubusercontent.com/Infinity-000/2/master/freeforyou.xml",
+"name": "พรหมลิขิต",
+"image": "https://f.ptcdn.info/026/082/000/s2qaga1jov0QutnW9cT6g-o.jpg",
+"url": "https://pastebin.com/raw/3wmzQ7kS",
 "import": false
 },
 {
