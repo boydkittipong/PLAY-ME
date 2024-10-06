@@ -1,18 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/FaBBx9.png",Bugaboo VNL1
-https://live-cdn-hwc.bugaboo.tv/live_line2/alive_1080p.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/FaBBx9.png",Bugaboo VNL2
-https://live-cdn-hwc.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/FaBBx9.png",Bugaboo VNL3
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://sv1.picz.in.th/images/2023/05/31/Fa7MQb.jpg",SK1
-https://r3-sn-5fo-c37ed8.googleuservideo.com/ball8k_t4/sportklub1slovenia/chunks.m3u8?nimblesessionid=542486&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjMgOTozMzo1MyBBTSZoYXNoX3ZhbHVlPVg4TjBWL3E3ZCtlUG9vQm96YzB5V1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0zNzEzMzc=
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://rentapi.blackboxsys.net/images/png/th-dazn19.png",Dazn19
+https://cdn-la2.aws-stream.com/ondemand/od3/dklsport19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://rentapi.blackboxsys.net/images/png/th-dazn20.png",Dazn20
+https://cdn-la2.aws-stream.com/ondemand/od3/dklsport20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",Skysports Football
+https://cdn2077.google-streams.com:9313/v5/IXD1FVbCZrzkvtV7LhHfAA/1728210748/2dd076af7c0daeb7f5ce8865695b9091/sjYoQedQASdBa1csC1R89g/1728221428/live/vx-origin/uk-skysports-football_720/chunks.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://rentapi.blackboxsys.net/images/png/de-sportdigital.png",Sportdigital
+https://s4.apple-streams.com:9301/v5/0AlSVTATzSlXKjbRlDG4EQ/1728210853/2dd076af7c0daeb7f5ce8865695b9091/qcJ3OsDbSJORQu0F6qgbKQ/1728221533/live/dx-origin/de-sportdigital_480/chunks.m3u8
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
 https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+https://s5.apple-streams.com:9309/v5/T0qhxE4U76hLBCL9dYnhvg/1728211145/3359367f0fc55a25439ce8944c043325/H8n5WEfQtq0KNwcsTLuuFQ/1728221825/live/lx-origin/epl-3_720/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
@@ -90,11 +93,11 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png",BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/th-sport/bein3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
 https://rr3ic3dndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1s.m3u8|Referer=https://dooball2you.com/tvonline/
@@ -119,9 +122,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nfl/sport/nfl/chunks.m3u8|
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Y90E149426.png",MOTORVISION
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/motorvision/sport/motorvision/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 #EXTINF:-1 tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%201.png",SPOTV1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/sport/spotv1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/th-sport/spotv1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 #EXTINF:-1 tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",SPOTV2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/th-sport/spotv2/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png",ARENA SPORT 1
@@ -179,14 +182,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
 
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/FVze150029.png",SPORT TV 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/sport-inter/sporttv1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/i0jS150030.png",SPORT TV 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/sport-inter/sporttv2/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
-
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
 #EXTVLCOPT:http-user-agent=exoplayer_video
-http://57.128.137.73:9998/assp1/tracks-v1a1/mono.m3u8?token=8a448b69e5caeabe2f2786ad6218c5c9cf3ee3dd-1f63157239375ff572bed3eece7a3c1b-1672417763-1672406963
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/sport-inter/astro1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
 #EXTVLCOPT:http-user-agent=exoplayer_video
@@ -198,7 +196,7 @@ http://57.128.137.73:9998/assp3/tracks-v1a1/mono.m3u8?token=7cdcbd60c7745e9e4d87
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
 #EXTVLCOPT:http-user-agent=exoplayer_video
-http://57.128.137.73:9998/assp4/preview.mp4?token=5f09ae18d1de2c0df23851e433ed89d2db1025df-29b8f5eec1dd384387b37315a395bb6b-1672417898-1672407098
+https://cdn2077.google-streams.com:9307/v5/RlrNIU9tiSOWbF-gXd6c4g/1728210997/2dd076af7c0daeb7f5ce8865695b9091/02EWkTMp0MDGIlA8ho-xkA/1728221677/live/dx-origin/my-asp4_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810",ASTRO SUPER SPORT 5
