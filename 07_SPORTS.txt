@@ -11,8 +11,6 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https:
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
 https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-https://s5.apple-streams.com:9309/v5/T0qhxE4U76hLBCL9dYnhvg/1728211145/3359367f0fc55a25439ce8944c043325/H8n5WEfQtq0KNwcsTLuuFQ/1728221825/live/lx-origin/epl-3_720/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
