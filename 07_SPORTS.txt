@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",3BB Sports 1
-https://streamamg-fa.akamaiz.com/dookeela/3bbasian/chunks.m3u8|Referer=https://dookeela.live/live-tv
+https://streamamg-fa.akamaiz.com/dookeela/3bbsports1/chunks.m3u8|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",3BB Sports 1
+https://dookeela.live/live-tv/3bbsports1|Referer=https://dookeela.live/live-tv
 
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
