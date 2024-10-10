@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+https://dookeela.live/live-tv/mcothd
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
