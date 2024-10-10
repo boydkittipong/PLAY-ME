@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1720429672.png",WCAS
-https://cdn3.googlecdnforstreaming.live:446/24xball/ch5/chunks.m3u8
+https://cdn3.googlecdnforstreaming.live:446/24xball/ch5/chunks.m3u8|Referer=https://24xball.net/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1720429672.png",3BB Sports 1
 https://dookeela.live/live-tv/3bbsports1|Referer=https://dookeela.live/live-tv
 
@@ -59,13 +59,13 @@ https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=htt
 https://streaming.livescorethai.net/iptv/sd-cctv4.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",TRUE BALL THAI 1
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8
+https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Referer=https://24xball.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",TRUE BALL THAI 2
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8
+https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Referer=https://24xball.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",TRUE BALL THAI 3
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8
+https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Referer=https://24xball.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",TRUE BALL THAI 4
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8
+https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Referer=https://24xball.net/
 
 
 
@@ -143,8 +143,7 @@ http://57.128.137.73:9998/assp5/tracks-v1a1/mono.m3u8?token=42759b562c226177d08d
 
 
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165715_digisport1romania.jpg",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -186,15 +185,6 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/32eO150074.png",CCTV5
-http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",TVRI Sport
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/tT03ZHTTTjW42ibOAgc-gwnwxQcb_Q2gx9RKK2dha3maszhN4U93EW6RlQhCBGXEx8r2EhUb=s900-c-k-c0x00ffffff-no-rj",TNT Sports Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",J SPORTS 1
