@@ -15,7 +15,7 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/chunks.m3u8
 https://n-edge-1-th.v2h-cdn.com/mvm/mvm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/109_y_fT8KaRdJWBmucyAUSehgNozjGq4HDVCn.png",MVCTV3
 https://edge2a.v2h-cdn.com/tv3cam/tv3cam.stream/chunklist_w1369952456.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",THAIBAAN TV
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/thaibaan.png",THAIBAAN TV
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268156980599779330/EsDSmTDd_400x400.jpg",WHITE CHANNEL
 https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w678192898.m3u8
