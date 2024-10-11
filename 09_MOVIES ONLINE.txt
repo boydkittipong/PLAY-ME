@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-300x450.jpg",Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น
-https://main.77player.xyz/m3u8/742d899e4d4fd82450fd768d/742d899e4d4fd82450fd768d438.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2-3-300x450.jpg",The Equalizer 3 (2023) มัจจุราชไร้เงา 3
-https://main.77player.xyz/m3u8/307d8f75678e8aa6e6219ce5/307d8f75678e8aa6e6219ce5438.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-4-300x450.jpg",Expend4bles (2023) โคตรคนทีมมหากาฬ 4
-https://main.77player.xyz/m3u8/60db33dc404cae5b189e703c/60db33dc404cae5b189e703c438.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/07/Paranormal-Activity-Next-of-Kin-2021.png",Paranormal Activity Next of Kin (2021)
-https://main.77player.xyz/m3u8/6cc7310d3a175326af26ebfc/6cc7310d3a175326af26ebfc438.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/04/Infinite-Storm-2022-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9F%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%A1.png",Infinite Storm (2022) อินฟีนิตี้ สตรอม
-https://xxx.77player.xyz/ioshls/0715a7cdcad842eb209d2293b7dea331/0715a7cdcad842eb209d2293b7dea331.m3u8
-#EXTINF:-1 tvg-logo="https://fi1-ph.ypncdn.com/videos/202201/09/401034111/original/8(m=eaAaaEPbaaaa)(mh=nVTbV_Z24w1MIyxA).jpg",Morgpie Sweet romantic BOUNCY BUSTY fuck
-https://cdn.pornhui.com/reset/morgpie.mp4
-#EXTINF:-1 tvg-logo="https://xxxmax.net/wp-content/uploads/2022/12/Brazzers-Alessandra-Jane-One-Last-Wild-Fuck-Trailer-Pornmz.jpg",One Last Wild Fuck
-https://cdn.pornhui.com/Brazzers_Videos/onelast.mp4
-#EXTINF:-1 tvg-logo="https://yesporn.vip/wp-content/uploads/2023/07/vixen-thrill-seekers_1920x1080-scaled.webp",Thrill Seeking Baddie Takes What She Wants
-https://cdn.pornhui.com/vixen/amryehnts.mp4
-#EXTINF:-1 tvg-logo="https://img1.128100.xyz/upload/2024/01/26/k5txhgafbohwygwrk3w2s7fllhfkg2ez.jpg",TZ139
-https://vod2eu5.128100.xyz/hls/CPNWh5uDIeU/index.m3u8?token=aUkrenhPVlMwaFlUd0dDNlkvTHhLZDlYdEc2QU1xbzUrUkYycFpSRXc4ZkNlcUZrbk5rTWNrdnB6VjhZbDJDckpaUnpiZ1JUZzU0UnRyQysrUml6NkNGb3JXSXhjZXJlMENKK2Q0V1E3N3JtNFJmQURjT1B2QnpaSjkzT0todHI=&ip=1.0.173.26&auth=0976f8fa5cd36e79fb5b1597ba62a30a&exp=1706609301&hash=d8c3325f92b367264abeddae86b4e3f8
-#EXTINF:-1 tvg-logo="https://img1.128100.xyz/upload/2024/01/23/8ieoydmxs1ciktucpudjudxb1m6wf6do.jpg",RAS280
-https://vod4eu5.128100.xyz/hls/iUKNoU25JWG/index.m3u8?token=TG9HQmpXdm5UeUoxWUYwbWdwd3hkY2REc05RM0Vlakg4Mm5MNFlFZkVOYjBkcEhvZy9XN3lyUmFnMGpVU2xvOVhXUUw2b0hvV3NJK2hpSzE1aFVxeXkxUmlTYXN3U2dJODhZdWJLbU1hYWpIWUFmb3N3TTZjWjczZU4wWWpXZEk=&ip=1.0.173.26&auth=0976f8fa5cd36e79fb5b1597ba62a30a&exp=1706609301&hash=35de1a34a554de18739e03dc16ed0fa1
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg",อนงค์ My Boo (2024)
+https://main.24playerhd.com/m3u8/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/CTRL-2024-300x450.jpg",CTRL (2024)
+https://main.24playerhd.com/m3u8/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Hijack-1971-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-2024-300x450.jpg",Hijack 1971 นรกเหนือน่านฟ้า (2024)
+https://main.24playerhd.com/m3u8/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Platform-2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1-2-2024-300x450.jpg",The Platform 2 เดอะ แพลตฟอร์ม 2 (2024)
+https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/The-Killer-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-2024-300x450.jpg",The Killer สวยกล้าบ้าระห่ำ (2024)
+https://main.24playerhd.com/m3u8/5df4a10b4bfb4d087030ba3b/5df4a10b4bfb4d087030ba3b438.m3u8
