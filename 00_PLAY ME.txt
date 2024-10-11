@@ -59,7 +59,7 @@
 {
 "name": "MOVIES ONLINE",
 "image": "https://www.i-pic.info/i/hFmP195354.png",
-"url": "https://freenote.biz/raw/LxM1qy8cP1",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/09_MOVIES%20ONLINE.txt",
 "import": false
 },
 {
@@ -81,18 +81,6 @@
 "import": false
 },
 {
-"name": "MIX TV",
-"image": "https://img.utdstc.com/icon/14b/0a0/14b0a099c268c28434348f04c0053a77d2a8782408a5f50095b07942dec08bb9:200",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/ShareextReborn",
-"import": false
-},
-{
-"name": "MOVIE",
-"image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://pastebin.com/raw/7ET32wf4",
-"import": false
-},
-{
 "name": "THAI IPTV2",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
 "url": "https://freenote.biz/raw/9IoMYK0OXt",
@@ -102,12 +90,6 @@
 "name": "THAI IPTV3",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
 "url": "https://pastebin.com/raw/Acsep91v",
-"import": false
-},
-{
-"name": "Movie Channel",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiY8kA9bvJesP3mEnV21O2FXoCTVq-wRSdw&usqp=CAU",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/Movie%20Channel",
 "import": false
 },
 {
