@@ -8,9 +8,6 @@ https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
-#EXTINF:-1 tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL
-https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
@@ -21,14 +18,22 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=ht
 https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
-http://203.154.243.89:28010/pa/animal.ts
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
-http://203.154.243.89:28010/pa/sci.ts
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
-https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ts8B3ag2xNA/XOXS2htddMI/AAAAAAAAMyA/vkcey2L_vmIbQVaJjK9CJDcvrXkb2Rw7ACLcBGAs/s1600/51ugkx5IRFL._SY355_.png",LOVE NATURE 4k
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112738.png",DISCOVERY CHANNEL
+https://dookeela.live/live-tv/discovery|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112700.png",Animal Planet
+https://dookeela.live/live-tv/animal-planet|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png",Animal Show
+https://dookeela.live/live-tv/animalshow|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101661.png",Crime + Investigation
+https://dookeela.live/live-tv/crime-investigation|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536991.png",MySci
+https://dookeela.live/live-tv/mysci|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png",True Explore Wild
+https://dookeela.live/live-tv/trueexplorewild|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png",Samrujlok
+https://dookeela.live/live-tv/samrujlok|Referer=https://dookeela.live/live-tv
+
+
 
 
