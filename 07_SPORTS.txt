@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/md-webp",BG SPORT 1
-https://cdn3.googlecdnforstreaming.live:446/24xball/ch5/chunks.m3u8|Referer=https://24xball.net/
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/md-webp",BG SPORT 2
-https://cdn3.googlecdnforstreaming.live:446/24xball/ch4/chunks.m3u8|Referer=https://24xball.net/
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/md-webp",BG SPORT 3
-https://cdn3.googlecdnforstreaming.live:446/24xball/ch13/chunks.m3u8|Referer=https://24xball.net/
-
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1720429672.png",3BB Sports 1
 https://dookeela.live/live-tv/3bbsports1|Referer=https://dookeela.live/live-tv
@@ -73,6 +66,20 @@ https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Re
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",TRUE BALL THAI 4
 https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8|Referer=https://24xball.net/
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1709380646.png",SIAMSPORT 1
+https://dookeela.live/live-tv/siamsport1|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1728462430.png",Volleyball 1
+https://dookeela.live/live-tv/volleyball1|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1728462447.png",Volleyball 2
+https://dookeela.live/live-tv/eurosport1es|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1728462457.png",Volleyball 3
+https://dookeela.live/live-tv/eurosport1es|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1728462466.png",Volleyball 4
+https://dookeela.live/live-tv/eurosport1es|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1728462475.png",Volleyball 5
+https://dookeela.live/live-tv/eurosport1es|Referer=https://dookeela.live/live-tv
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ybng150064.png",EURO SPORT 1
 https://dookeela.live/live-tv/eurosport1es|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RcsE150066.png",EURO SPORT 2
@@ -85,6 +92,17 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunk
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png",BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/th-sport/bein3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+https://dookeela.live/live-tv/epl1_sd|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+https://dookeela.live/live-tv/epl2|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+https://dookeela.live/live-tv/epl3|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
+https://dookeela.live/live-tv/epl4|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
+https://dookeela.live/live-tv/epl5|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/th-sport/truesport1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
