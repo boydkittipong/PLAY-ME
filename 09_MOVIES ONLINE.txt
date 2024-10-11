@@ -1,20 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg",อนงค์ My Boo (2024)
 https://main.24playerhd.com/m3u8/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/CTRL-2024-300x450.jpg",CTRL (2024)
 https://main.24playerhd.com/m3u8/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Hijack-1971-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-2024-300x450.jpg",Hijack 1971 นรกเหนือน่านฟ้า (2024)
 https://main.24playerhd.com/m3u8/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Platform-2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1-2-2024-300x450.jpg",The Platform 2 เดอะ แพลตฟอร์ม 2 (2024)
 https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/The-Killer-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-2024-300x450.jpg",The Killer สวยกล้าบ้าระห่ำ (2024)
 https://main.24playerhd.com/m3u8/5df4a10b4bfb4d087030ba3b/5df4a10b4bfb4d087030ba3b438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Trap-2024-%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B9%87%E0%B8%9B-1-300x450.jpg",Trap (2024) แทร็ป
 https://main.24playerhd.com/m3u8/11e270054dd49ee8e6f42d17/11e270054dd49ee8e6f42d17438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B3-1-300x450.jpg",Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ
 https://main.24playerhd.com/m3u8/e518fdf5fc6ce3301cec7f7e/e518fdf5fc6ce3301cec7f7e438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%9A%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-300x450.jpg",Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
 https://main.24playerhd.com/m3u8/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/The-Package-2024-%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg",The Package (2024) พัสดุฝ่าแดนมรณะ
 https://main.24playerhd.com/m3u8/7d371c2891fa80050f06cca2/7d371c2891fa80050f06cca2438.m3u8
 
