@@ -8,12 +8,32 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 
+
  #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1720723122.png",TRUE FILM 2
+https://dookeela.live/live-tv/truefilm2|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719205705.png",True Film Asia
+https://dookeela.live/live-tv/truefilmasia|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786599.png",HBO Hits
+https://dookeela.live/live-tv/hbo-hits|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719803240.png",CCM
+https://streamamg-fa.akamaiz.com/dookeela/ccm/chunks.m3u8?nimblesessionid=5272734&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjozMTo1NCBBTSZoYXNoX3ZhbHVlPWUyS0twNVNDdGJUcWFIMlM5M2d0R2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTI=|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719803240.png",CCM
+https://dookeela.live/live-tv/ccm|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719205850.png",True Asian More
+https://dookeela.live/live-tv/trueasianmore|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703829940.png",3BB Asian
+https://dookeela.live/live-tv/3bbasian|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vhLk148483.png",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
