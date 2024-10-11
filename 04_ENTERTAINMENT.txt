@@ -32,6 +32,8 @@ https://dookeela.live/live-tv/rock-action|Referer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/amc|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png",TLC
 https://dookeela.live/live-tv/tlc|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN
+https://dookeela.live/live-tv/tvn-indonesia|Referer=https://dookeela.live/live-tv
 
 
 
