@@ -1,49 +1,54 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://dookeela.live/live-tv/ch3hd|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
+https://streamamg-fa.akamaiz.com/dookeela/ch3hd/chunks.m3u8?nimblesessionid=5273433&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjo1NDozNSBBTSZoYXNoX3ZhbHVlPUk1a3ZFdGdwbjZyNWY5dW92S0h6d0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=|Referer=https://dookeela.live/live-tv
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://dookeela.live/live-tv/ch5hd|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 https://dookeela.live/live-tv/ch7hd|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
+https://streamamg-fa.akamaiz.com/dookeela/ch7hd/chunks.m3u8?nimblesessionid=5273454&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjo1NTowMiBBTSZoYXNoX3ZhbHVlPW1Yd29Vc1lqTmEyYWNzZlVneHVLSlE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=|Referer=https://dookeela.live/live-tv
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
 https://dookeela.live/live-tv/mcothd|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+https://dookeela.live/live-tv/nbt2hd|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+https://dookeela.live/live-tv/thaipbs|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+https://dookeela.live/live-tv/pptv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+https://dookeela.live/live-tv/one31|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+https://dookeela.live/live-tv/gmm25|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+https://dookeela.live/live-tv/amarintv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29 Plus
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+https://dookeela.live/live-tv/mono29|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703787733.png",MONO29 Plus
+https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
-https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+https://dookeela.live/live-tv/workpointtv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+https://dookeela.live/live-tv/true4u|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+https://dookeela.live/live-tv/ch8|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://streaming-web.thairath.co.th/hls/playlist.m3u8
+https://dookeela.live/live-tv/thairathtv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
-https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+https://dookeela.live/live-tv/jkn18|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+https://dookeela.live/live-tv/tnn|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+https://dookeela.live/live-tv/nationtv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
-https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
-https://edge6a.v2h-cdn.com/altv/altv.stream/playlist.m3u8
+https://dookeela.live/live-tv/altv4|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+https://tcdn-live.tsports7.com/videohls/flivech/mzYk9fdPj-g059wIm9QiLA/1728629935/tsports-1_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chunklist_w1064076235_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
