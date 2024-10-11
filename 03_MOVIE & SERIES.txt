@@ -20,9 +20,6 @@ https://dookeela.live/live-tv/truefilm2|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719205705.png",True Film Asia
 https://dookeela.live/live-tv/truefilmasia|Referer=https://dookeela.live/live-tv
-#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786599.png",HBO Hits
-https://dookeela.live/live-tv/hbo-hits|Referer=https://dookeela.live/live-tv
-
 
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719803240.png",CCM
 https://dookeela.live/live-tv/ccm|Referer=https://dookeela.live/live-tv
@@ -50,5 +47,27 @@ https://www.inwiptv.com/player_demo.php?channel=94898
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.inwiptv.com/player_demo.php?channel=95262
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png",HBO
+https://dookeela.live/live-tv/hbo|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png",HBO Family
+https://dookeela.live/live-tv/hbo-family|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786599.png",HBO Hits
+https://dookeela.live/live-tv/hbo-hits|Referer=https://dookeela.live/live-tv
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786305.png",HBO Signature
+https://dookeela.live/live-tv/hbo-signature|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112791.png",HITS
+https://dookeela.live/live-tv/hits|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png",HITS MOVIES
+https://dookeela.live/live-tv/hits-movie|Referer=https://dookeela.live/live-tv
+
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112779.png",Paramount Network
+https://dookeela.live/live-tv/paramount-network|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703832225.png",Warner TV
+https://dookeela.live/live-tv/warnertv|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706405008.png",iQIYI
+https://dookeela.live/live-tv/iqiyi|Referer=https://dookeela.live/live-tv
+
 
 
