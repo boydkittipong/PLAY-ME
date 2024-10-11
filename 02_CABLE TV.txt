@@ -30,19 +30,10 @@ https://edge4.thaicom.io/v3/tb/Attv/chunklist_live_480p_VmH4X.m3u8
 #EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_292_20240122031500.png",Doxzilla
 https://edge12.thaicom.io/v3/tc/Doxzilla/chunklist_live_480p_TVlc4.m3u8?uuid=94804d2c-9a5f-405b-9043-7ecdde97155b&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiOTQ4MDRkMmMtOWE1Zi00MDViLTkwNDMtN2VjZGRlOTcxNTViIiwiY2hhbm5lbCI6IkRveHppbGxhIiwicXVhbGl0eSI6IkExIiwiaWF0IjoxNzI4NjIzODYwLCJuYmYiOjE3Mjg2MjM4NjAsImV4cCI6MTcyODY1MjY2MH0.IqkKUo-AfYEt_ExQmVVefRIbt3NoKwAqGsoAWu-Jq74&device=loox-web
 
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_271_20240116031357.png",The Room 44
-https://edge14.thaicom.io/v3/td/Room44LOOX/chunklist_live_480p_VaF9R.m3u8?uuid=72ed87c0-aa50-4530-a9b9-ff46b10b6e9e&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiNzJlZDg3YzAtYWE1MC00NTMwLWE5YjktZmY0NmIxMGI2ZTllIiwiY2hhbm5lbCI6IlJvb200NExPT1giLCJxdWFsaXR5IjoiQTEiLCJpYXQiOjE3Mjg2MjM4OTIsIm5iZiI6MTcyODYyMzg5MiwiZXhwIjoxNzI4NjUyNjkyfQ.4pR-63qgQPay-G956gnrgSCBsZNc6Qk47WhHZHwOAXA&device=loox-web
 
 #EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_298.png",Thainess
 https://edge12.thaicom.io/v3/tc/Thainess/chunklist_live_480p_TVlb4.m3u8?uuid=f98e4f98-22ee-4048-985b-d0ebb13dcf58&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiZjk4ZTRmOTgtMjJlZS00MDQ4LTk4NWItZDBlYmIxM2RjZjU4IiwiY2hhbm5lbCI6IlRoYWluZXNzIiwicXVhbGl0eSI6IkExIiwiaWF0IjoxNzI4NjIzNjYwLCJuYmYiOjE3Mjg2MjM2NjAsImV4cCI6MTcyODY1MjQ2MH0.lfZhlvKNo10BkFmjT34dxE4-cDI5freiVdsG-qhBB40&device=loox-web
 
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_295.png",Khongdee Thailand
-https://edge14.thaicom.io/v3/td/Khongdee/chunklist_live_480p_VaFan.m3u8?uuid=60078dea-c015-4a78-b565-cbb0e8c5ba61&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiNjAwNzhkZWEtYzAxNS00YTc4LWI1NjUtY2JiMGU4YzViYTYxIiwiY2hhbm5lbCI6Iktob25nZGVlIiwicXVhbGl0eSI6IkExIiwiaWF0IjoxNzI4NjIzOTMyLCJuYmYiOjE3Mjg2MjM5MzIsImV4cCI6MTcyODY1MjczMn0.ALMj2Bs_LfgTAbzUkGXjWhwHgdEe-S8C2hUYyOw6oeY&device=loox-web
-
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_298.png",Thainess
-https://looxtv.tv/Thainess|Referer=https://looxtv.tv/
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_298.png",Thainess
-https://edge12.thaicom.io/v3/tc/Thainess/chunklist_live_480p_TVlb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOf34j8agmAeiyLEi-I21vBs7nBTmKhZ-tQKUQa",HAPPY TV
 https://n-edge-1-th.v2h-cdn.com/happy/happy/chunks.m3u8
