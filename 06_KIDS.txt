@@ -10,12 +10,31 @@ http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
+https://www.inwiptv.com/player_demo.php?channel=89780
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png",DreamWorks
+https://dookeela.live/live-tv/dreamworks|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png",Nick Jr.
+https://dookeela.live/live-tv/nickjr|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png",Nickelodeon
+https://dookeela.live/live-tv/nickelodeon|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png",True Spark Play
+https://dookeela.live/live-tv/nickelodeon|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png",Cartoonito
+https://dookeela.live/live-tv/cartoonito|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png",Disney Channel
+https://dookeela.live/live-tv/disney-channel|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png",Disney Junior
+https://dookeela.live/live-tv/disney-junior|Referer=https://dookeela.live/live-tv
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png",Disney XD
+https://dookeela.live/live-tv/disneyxd|Referer=https://dookeela.live/live-tv
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/9dia161108.png",PBS KIDS (Soundtrack)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9dia161108.png",PBS KIDS (Soundtrack)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-
-
 
 
