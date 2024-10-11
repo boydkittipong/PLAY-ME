@@ -1,24 +1,10 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://dookeela.live/live-tv/ch3hd|Referer=https://dookeela.live/live-tv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://streamamg-fa.akamaiz.com/dookeela/ch3hd/chunks.m3u8?nimblesessionid=5273433&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjo1NDozNSBBTSZoYXNoX3ZhbHVlPUk1a3ZFdGdwbjZyNWY5dW92S0h6d0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=|Referer=https://dookeela.live/live-tv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://streamamg-fa.akamaiz.com/dookeela/ch3hd/chunks.m3u8?nimblesessionid=5273433&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjo1NDozNSBBTSZoYXNoX3ZhbHVlPUk1a3ZFdGdwbjZyNWY5dW92S0h6d0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=
-
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://cdn4321.google-streams.com:9094/v5/cfDO0NXC0a-CWYu4sKBWQg/1728608594/d6137fc240e3471b479830b7be62ceef/__TyAKsrVCxDHsB-fnGWTA/1728619274/live/dx-origin/dooball66-ch3_720/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://cdn5555.google-streams.com:9092/v5/u7aOO1Zcc9wgNRf279KbrQ/1728608733/4d0e136cd1c9c15287484b32eb346447/rC0MPkfW-_mgxnZEBm8kCA/1728619413/live/dx-origin/hd-ch3_720/chunks.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://dookeela.live/live-tv/ch5hd|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 https://dookeela.live/live-tv/ch7hd|Referer=https://dookeela.live/live-tv
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://streamamg-fa.akamaiz.com/dookeela/ch7hd/chunks.m3u8?nimblesessionid=5273454&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNCAxMjo1NTowMiBBTSZoYXNoX3ZhbHVlPW1Yd29Vc1lqTmEyYWNzZlVneHVLSlE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1hMWQ1NTU4OGI2ZGI3ZDgxZDhlMDg0YTNhNTY1YmE0OSZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=|Referer=https://dookeela.live/live-tv
-
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
 https://dookeela.live/live-tv/mcothd|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
@@ -52,15 +38,17 @@ https://dookeela.live/live-tv/tnn|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
 https://dookeela.live/live-tv/nationtv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
-https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
 https://dookeela.live/live-tv/altv4|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
 https://tcdn-live.tsports7.com/videohls/flivech/mzYk9fdPj-g059wIm9QiLA/1728629935/tsports-1_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
-https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chunklist_w1064076235_b3128000.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w1090950449_b2128000.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews_b_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
