@@ -18,18 +18,15 @@ https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|Referer=h
 #EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPL.jpg",TRUE EXPLORE LIFE
 https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
-#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",TRUE EXPLORE SCI
-
 
 #EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_130.jpg",BBC LIFESTYLE
-
+https://dookeela.live/live-tv/bbc-lifestyle|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
+https://dookeela.live/live-tv/rock-entertainment|Referer=https://dookeela.live/live-tv
 
-
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
-
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png",ROCK Action
+https://dookeela.live/live-tv/rock-action|Referer=https://dookeela.live/live-tv
 
 
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",AMC PRESENTS
