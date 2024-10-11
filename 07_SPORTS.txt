@@ -146,31 +146,26 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/sport-inter/dig
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165720_digisport2romania.jpg",DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/sport-inter/digisport4/chunks.m3u8|Referer=https://www.doofootball.com/dootv
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/sport-inter/digisport2/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062823_digisport3romania.jpg",DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport3/sport-inter/digisport4/chunks.m3u8|Referer=https://www.doofootball.com/dootv
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport3/sport-inter/digisport3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062844_digisport4romania.jpg",DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/sport-inter/digisport4/chunks.m3u8|Referer=https://www.doofootball.com/dootv
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/sport-inter/digisport4/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
 
 
 #EXTINF:-1 tvg-id="canal11hd.tv.vodafone.pt" tvg-name="11 HD" tvg-logo="https://www.i-pic.info/i/ChQ6161107.png",CANAL 11
 https://dookeela.live/live-tv/canal11pt|Referer=https://dookeela.live/live-tv
 
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/k8wy152107.png",GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/sAiF155255.png",BARCA TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8|Referer=https://player.licenses4.me
-
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnd3ZS51bml2ZXJzZV9pY29uXzE1NjQwNTI5ODdfMDAy/icon.png?w=&fakeurl=1",WWE
-http://93.152.174.144:4000/play/WWE/index.m3u8
+https://dookeela.live/live-tv/wwe|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
