@@ -19,23 +19,17 @@ https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|Referer=h
 https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 
 #EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",TRUE EXPLORE SCI
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDM6MzI6NTAgUE0maGFzaF92YWx1ZT03Wk9ENEVsRU5ML3VPcStSU2p0V0dnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYxMjE1
+
 
 #EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_130.jpg",BBC LIFESTYLE
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE3OjA3IEFNJmhhc2hfdmFsdWU9OFJZVW04MEYvK2RaeFM4R3JOWDRlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF85NTgyMQ==
+
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+
 
 
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",AMC PRESENTS
