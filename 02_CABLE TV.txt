@@ -27,14 +27,6 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Kkdz152039.png",AT TV
 https://edge4.thaicom.io/v3/tb/Attv/chunklist_live_480p_VmH4X.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_292_20240122031500.png",Doxzilla
-https://edge12.thaicom.io/v3/tc/Doxzilla/chunklist_live_480p_TVlc4.m3u8?uuid=94804d2c-9a5f-405b-9043-7ecdde97155b&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiOTQ4MDRkMmMtOWE1Zi00MDViLTkwNDMtN2VjZGRlOTcxNTViIiwiY2hhbm5lbCI6IkRveHppbGxhIiwicXVhbGl0eSI6IkExIiwiaWF0IjoxNzI4NjIzODYwLCJuYmYiOjE3Mjg2MjM4NjAsImV4cCI6MTcyODY1MjY2MH0.IqkKUo-AfYEt_ExQmVVefRIbt3NoKwAqGsoAWu-Jq74&device=loox-web
-
-
-#EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_298.png",Thainess
-https://edge12.thaicom.io/v3/tc/Thainess/chunklist_live_480p_TVlb4.m3u8?uuid=f98e4f98-22ee-4048-985b-d0ebb13dcf58&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiZjk4ZTRmOTgtMjJlZS00MDQ4LTk4NWItZDBlYmIxM2RjZjU4IiwiY2hhbm5lbCI6IlRoYWluZXNzIiwicXVhbGl0eSI6IkExIiwiaWF0IjoxNzI4NjIzNjYwLCJuYmYiOjE3Mjg2MjM2NjAsImV4cCI6MTcyODY1MjQ2MH0.lfZhlvKNo10BkFmjT34dxE4-cDI5freiVdsG-qhBB40&device=loox-web
-
-
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOf34j8agmAeiyLEi-I21vBs7nBTmKhZ-tQKUQa",HAPPY TV
 https://n-edge-1-th.v2h-cdn.com/happy/happy/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbjCASA_FOAAaOStEHt8VxvSqowmNy2kbyIrOvIt5vhroE2BVxgirvjCa57fSWXjscLs&usqp=CAU",GOOD IDEA TV
