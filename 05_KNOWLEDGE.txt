@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg",FWDOC
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjU2OjA4IEFNJmhhc2hfdmFsdWU9RGgrdzVLeTZrYldkNDNwdkw3VTBFQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
