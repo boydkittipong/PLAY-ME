@@ -1,48 +1,48 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://dookeela.live/live-tv/ch3hd|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMwOjMyIEFNJmhhc2hfdmFsdWU9enVNQlAwSmNNMlpzc21TWnR0enViQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
-https://dookeela.live/live-tv/ch5hd|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv01_ch5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMxOjQ2IEFNJmhhc2hfdmFsdWU9S3lHdXk3NzBiQ0paU1lJUnNkaWxOdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://dookeela.live/live-tv/ch7hd|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv35_ch7hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjIwOjA1IEFNJmhhc2hfdmFsdWU9byt2d016QkVkZHNITGZzeEpnaitPUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-https://dookeela.live/live-tv/mcothd|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv30_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMyOjM5IEFNJmhhc2hfdmFsdWU9d0hoL3VsOUI4VWVrWlZoaTFqZ1FMUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-https://dookeela.live/live-tv/nbt2hd|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv02_nbthd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMzOjQ5IEFNJmhhc2hfdmFsdWU9VVhBZmllUTM1cTJQS0pCWDVVN29Cdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-https://dookeela.live/live-tv/thaipbs|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv03_tpbshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM1OjA2IEFNJmhhc2hfdmFsdWU9MWhzWUZkVWxLVG8vQlY1WVFwR3Eydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://dookeela.live/live-tv/pptv|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv36_pptvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM1OjQ3IEFNJmhhc2hfdmFsdWU9SFRUcUQ2bFF2ZVltWWJNRE5lU3F2Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://dookeela.live/live-tv/one31|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv31_onehd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM2OjQ5IEFNJmhhc2hfdmFsdWU9Si9ndks2RzIxV1RXVTZnanlYaDdWdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://dookeela.live/live-tv/gmm25|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM3OjI5IEFNJmhhc2hfdmFsdWU9UlZpNmJETWFIcEE3L0JNWnVrS2xJZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://dookeela.live/live-tv/amarintv|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv34_amarintvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM4OjA5IEFNJmhhc2hfdmFsdWU9T3pKNnNKbzdBaHN3SzM0QVpKelgzUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://dookeela.live/live-tv/mono29|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv29_mono29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM5OjAzIEFNJmhhc2hfdmFsdWU9QXFQbnIwcnJYQ1NBYzh5ZUpaeHlRUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703787733.png",MONO29 Plus
 https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
-https://dookeela.live/live-tv/workpointtv|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjM5OjQ3IEFNJmhhc2hfdmFsdWU9VEF2SXU4MUpFdlQ5dy9sYnZwblIxdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
-https://dookeela.live/live-tv/true4u|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQwOjMyIEFNJmhhc2hfdmFsdWU9TTVNYWlkbnNDLzJxaDRRcm0yQ05nUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://dookeela.live/live-tv/ch8|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv27_ch8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQzOjQyIEFNJmhhc2hfdmFsdWU9VG9UcjlhZEJIMXd0Rzdob2lnRWNSdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://dookeela.live/live-tv/thairathtv|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/dtv32_thairahttvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ0OjMzIEFNJmhhc2hfdmFsdWU9SThIejhmUUNOMEduOU90eG9Rc0lIdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
-https://dookeela.live/live-tv/jkn18|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/jkn18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cVhQRDluOHBxMUVxaFJNZ0ZCWDlJUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
-https://dookeela.live/live-tv/tnn|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ2OjAxIEFNJmhhc2hfdmFsdWU9Y25ZcmJ1WkJ5Q0hxdjVpVXJlVzhRdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-https://dookeela.live/live-tv/nationtv|Referer=https://dookeela.live/live-tv
+https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ3OjM0IEFNJmhhc2hfdmFsdWU9alMwV01NSkhMMjhRNGU4VTFwYmMyUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
-https://dookeela.live/live-tv/altv4|Referer=https://dookeela.live/live-tv
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
-https://tcdn-live.tsports7.com/videohls/flivech/mzYk9fdPj-g059wIm9QiLA/1728629935/tsports-1_720p/chunks.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/dtv07_tsports7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ5OjQ2IEFNJmhhc2hfdmFsdWU9TzZvK1NUSDdCYXRsNmxURmxiZzlwQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
