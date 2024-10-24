@@ -116,6 +116,12 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
 "import": false
 },
+{
+"name": "เพลย์ลิสต์ ทีวี",
+"image": "https://bangball123.com/wp-content/uploads/loading-white.gif",
+"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
+"import": false
+},
 
 ]
 }
