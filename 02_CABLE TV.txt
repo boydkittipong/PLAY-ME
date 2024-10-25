@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
-https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA2OjA0OjEzIEFNJmhhc2hfdmFsdWU9UjBNM2lvaGtmczhiNnZaVmR0U2JiUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TIF0152043.png",FARM TV
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA2OjAxOjQyIEFNJmhhc2hfdmFsdWU9NVVDaW84Tm1UUzZuQXlrL09WcTBpUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",MVMall Home
