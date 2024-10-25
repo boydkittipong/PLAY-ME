@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg",FWSPORT
-https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjU3OjI1IEFNJmhhc2hfdmFsdWU9ODZ0ZTR4Y09VRW9yL1RvWndKQVBYdz09JnZhbGlkbWludXRlcz0y
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1720429672.png",3BB SPORTS 1
 https://dookeela.live/live-tv/3bbsports1|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
