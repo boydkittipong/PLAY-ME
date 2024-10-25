@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/dZvR148415.png",TRUE MOVIE HITS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela.live/live-tv
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
-https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+https://dookeela.live/live-tv/trueseries|Referer=https://dookeela.live/live-tv
 
 
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+https://dookeela.live/live-tv/truethaifilm|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+https://dookeela.live/live-tv/truefilm1|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1720723122.png",TRUE FILM 2
 https://dookeela.live/live-tv/truefilm2|Referer=https://dookeela.live/live-tv
@@ -33,13 +33,13 @@ https://dookeela.live/live-tv/ccm|Referer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/trueasianmore|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703829940.png",3BB Asian
-https://dookeela.live/live-tv/3bbasian|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-asian/3bb-asian.html
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vhLk148483.png",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786799.png",CINEMAX
-https://dookeela.live/live-tv/cinemax|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-cinemax/cinemax.html
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705503765.png",Mangorn
 https://dookeela.live/live-tv/mangorn|Referer=https://dookeela.live/live-tv
@@ -54,13 +54,13 @@ https://www.inwiptv.com/player_demo.php?channel=94898
 https://www.inwiptv.com/player_demo.php?channel=95262
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png",HBO
-https://dookeela.live/live-tv/hbo|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-hbo/3bb-hbo.html
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png",HBO Family
-https://dookeela.live/live-tv/hbo-family|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-hbo-family/3bb-hbo-family.html
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786599.png",HBO Hits
-https://dookeela.live/live-tv/hbo-hits|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703786305.png",HBO Signature
-https://dookeela.live/live-tv/hbo-signature|Referer=https://dookeela.live/live-tv
+https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112791.png",HITS
 https://dookeela.live/live-tv/hits|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png",HITS MOVIES
