@@ -42,28 +42,19 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
-https://freelive2.inwstream.com:1936/freelive-edge/dtv07_tsports7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjQ5OjQ2IEFNJmhhc2hfdmFsdWU9TzZvK1NUSDdCYXRsNmxURmxiZzlwQT09JnZhbGlkbWludXRlcz0y
+https://wandering-oldman.github.io/3bb-tsport7/3bb-tsport7.html
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
+https://wandering-oldman.github.io/3bb-topnews/3bb-topnews.html
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
+https://wandering-oldman.github.io/3bb-news1/3bb-news1.html
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
-https://live.topnews.co.th/hls/topnews_b_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
-http://news1.live14.com/stream/news1_hi.m3u8
 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-  	<title>ผู้เฒ่าพเนจร</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="ผู้เฒ่าพเนจร"> 
-<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
-<body bgcolor="000000">
-<center>
+
   <h2><img src="https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/01_DIGITAL%20TV.txt"></h2>
 </center>
 </body>
