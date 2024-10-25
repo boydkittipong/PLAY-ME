@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMwOjMyIEFNJmhhc2hfdmFsdWU9enVNQlAwSmNNMlpzc21TWnR0enViQT09JnZhbGlkbWludXRlcz0y
+https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/ch3hd
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://freelive2.inwstream.com:1936/freelive-edge/dtv01_ch5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjMxOjQ2IEFNJmhhc2hfdmFsdWU9S3lHdXk3NzBiQ0paU1lJUnNkaWxOdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
