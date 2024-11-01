@@ -128,6 +128,12 @@
 "url": "http://tiny.cc/freetv2238",
 "import": false
 },
+{
+"name": "Hellbound Season 2",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/refs/heads/main/sweet_home",
+"import": false
+},
 
 ]
 }
