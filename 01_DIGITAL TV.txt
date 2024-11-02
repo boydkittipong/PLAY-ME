@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://wandering-oldman.github.io/3bb-ch3/3bb-ch3.html
+https://wandering-oldman.github.io/3bb-ch3-1/3bb-ch3-1.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://wandering-oldman.github.io/3bb-ch5/3bb-ch5.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
