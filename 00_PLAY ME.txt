@@ -111,6 +111,12 @@
 "import": false
 },
 {
+"name": "You Dooball",
+"image": "https://www.youdooball.com/assets/images/logo_big.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/refs/heads/main/KODI",
+"import": false
+},
+{
 "name": "TV+หนัง",
 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
