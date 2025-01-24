@@ -81,9 +81,9 @@
 "import": false
 },
 {
-"name": "THAI IPTV2",
+"name": "BONDiptv",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://freenote.biz/raw/9IoMYK0OXt",
+"url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
 "import": false
 },
 {
