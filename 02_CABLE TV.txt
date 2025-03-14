@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
+https://www.inwiptv.com/player_demo.php?channel=27190
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV
