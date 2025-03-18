@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TIF0152043.png",FARM TV
+https://www.inwiptv.com/player_demo.php?channel=27315
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
 https://www.inwiptv.com/player_demo.php?channel=27312
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
