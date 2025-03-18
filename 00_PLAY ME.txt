@@ -113,7 +113,7 @@
 {
 "name": "INWIPTV",
 "image": "https://www.inwiptv.com/images/fwiptv/fwiptv.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/refs/heads/main/KODI",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/WALKER-IPTV.txt",
 "import": false
 },
 {
