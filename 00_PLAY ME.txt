@@ -111,8 +111,8 @@
 "import": false
 },
 {
-"name": "You Dooball",
-"image": "https://www.youdooball.com/assets/images/logo_big.png",
+"name": "INWIPTV",
+"image": "https://www.inwiptv.com/images/fwiptv/fwiptv.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/refs/heads/main/KODI",
 "import": false
 },
