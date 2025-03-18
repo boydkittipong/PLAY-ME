@@ -126,3 +126,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs.png",FIFA
 https://cdn2.aws-live-streaming.com/lsmscore/dklsport1/playlist.m3u8|Referer=https://99dooball.com/
+
+#EXTINF:-1 tvg-id="canal11hd.tv.vodafone.pt" tvg-name="11 HD" tvg-logo="https://www.i-pic.info/i/ChQ6161107.png",CANAL 11
+https://dookeela.live/live-tv/canal11pt|Referer=https://dookeela.live/live-tv
