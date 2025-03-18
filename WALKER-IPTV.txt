@@ -63,3 +63,10 @@ https://www.inwiptv.com/player_demo.php?channel=27135
 https://www.inwiptv.com/player_demo.php?channel=27132
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421230006pptvhd.jpg",Pptvhd
 https://www.inwiptv.com/player_demo.php?channel=27129
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",AIS PLAY 1
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDEyOjU0OjEzIFBNJmhhc2hfdmFsdWU9MkxFdW5WbjFEOWEzTFRSVGN0a2JKZz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",beIN Sports 1 Thailand
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDEyOjU0OjEzIFBNJmhhc2hfdmFsdWU9MkxFdW5WbjFEOWEzTFRSVGN0a2JKZz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football HD 1
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDEyOjU0OjEzIFBNJmhhc2hfdmFsdWU9MkxFdW5WbjFEOWEzTFRSVGN0a2JKZz09JnZhbGlkbWludXRlcz02MA==
