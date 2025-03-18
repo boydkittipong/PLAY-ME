@@ -116,21 +116,9 @@
 "import": false
 },
 {
-"name": "INWIPTV",
-"image": "https://iptv-dd.com/wp-content/uploads/2021/10/inwiptv.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/WALKER-IPTV.txt",
-"import": false
-},
-{
 "name": "TV+หนัง",
 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
-"import": false
-},
-{
-"name": "เพลย์ลิสต์ ทีวี",
-"image": "https://bangball123.com/wp-content/uploads/loading-white.gif",
-"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
 "import": false
 },
 {
