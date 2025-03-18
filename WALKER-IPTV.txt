@@ -1,96 +1,65 @@
-{
-"name": "WALKER-IPTV Clone28sep",
-"author": "WALKER-IPTV",
-"info": "ราคา 60 ต่อเดือน ช่องมีปัญหาพร้อมแก้ 24 ชั่วโมง",
-"image": "https://www.img.in.th/images/bde11d982b1d0371c62ed17818478fd3.png",
-"groups": [
-{
-"name": "ช่องทีวีดิจิตอล",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องไทย.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องไทย.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องการ์ตูน",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องการ์ตูน.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องการ์นตูน.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องกีฬา",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องกีฬา.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องกีฬา.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องหนัง",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องหนัง.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องหนัง.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องสาระคดี",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องสาระคดี.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องสาระคดี.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องเพลง",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องเพลง.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องเพลง.rar",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "ช่องเรียนหนังสือ",
-"image":"http://walker-iptv.ml/รูปiptv/ช่องเรียนหนังสือ.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/ช่องเรียน.rar",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "หนัง & ซีรี่ย์",
-"image":"http://walker-iptv.ml/รูปiptv/รวมหนัง.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/รวมหนัง.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": false
-},
-{
-"name": "18+",
-"image":"http://walker-iptv.ml/รูปiptv/หนัง18.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/18up.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": true
-},
-{
-"name": "วิทยุออนไลน์",
-"image":"http://walker-iptv.ml/รูปiptv/วิทยุ.png",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/วิทยุ.rar",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": true
-},
-{
-"name": "ข้อมูลอัพเดท",
-"image":"http://walker-iptv.ml/รูปiptv/updatetime.gif",
-"url": "http://walker-iptv.ml/iptv/VIPM3U.V14/updatetime.txt",
-"referer": "xxx",
-"info": " WALKER-IPTV.ML ",
-"import": true
-},
-]
-}
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
+https://www.inwiptv.com/player_demo.php?channel=95262
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
+https://www.inwiptv.com/player_demo.php?channel=94898
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
+https://www.inwiptv.com/player_demo.php?channel=92941
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg",FWDoc
+https://www.inwiptv.com/player_demo.php?channel=91303
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg",FWsport
+https://www.inwiptv.com/player_demo.php?channel=89782
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",Just For Laughs Gags
+https://www.inwiptv.com/player_demo.php?channel=89781
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225150NHK.jpg",NHK
+https://www.inwiptv.com/player_demo.php?channel=40910
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225204Bloomberg.jpg",Bloomberg
+https://www.inwiptv.com/player_demo.php?channel=40892
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225216RT.jpg",RT
+https://www.inwiptv.com/player_demo.php?channel=40889
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225237CGTN.jpg",CGTN
+https://www.inwiptv.com/player_demo.php?channel=40886
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240528173456FARMTV.jpg",FARMTV
+https://www.inwiptv.com/player_demo.php?channel=27315
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225339ถิ่นใต้.jpg",TIN TAI
+https://www.inwiptv.com/player_demo.php?channel=27312
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225425ch5hd.jpg",ch5
+https://www.inwiptv.com/player_demo.php?channel=27190
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225446nbthd.jpg",nbt
+https://www.inwiptv.com/player_demo.php?channel=27189
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225507tpbshd.jpg",tpbs
+https://www.inwiptv.com/player_demo.php?channel=27188
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225520tsports7.jpg",tsports7
+https://www.inwiptv.com/player_demo.php?channel=27186
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225533tptv.jpg",tptv
+https://www.inwiptv.com/player_demo.php?channel=27184
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225609TNN16.jpg",TNN16
+https://www.inwiptv.com/player_demo.php?channel=27179
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225631JKN18.jpg",JKN18
+https://www.inwiptv.com/player_demo.php?channel=27165
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225642Nation1.jpg",Nation
+https://www.inwiptv.com/player_demo.php?channel=27162
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225700Workpoint.jpg",Workpoint
+https://www.inwiptv.com/player_demo.php?channel=27159
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225712True4u.jpg",True4u
+https://www.inwiptv.com/player_demo.php?channel=27156
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225727gmmchannel.jpg",Gmm
+https://www.inwiptv.com/player_demo.php?channel=27153
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225748ch8.jpg",Ch8
+https://www.inwiptv.com/player_demo.php?channel=27147
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225827mono29.jpg",Mono29
+https://www.inwiptv.com/player_demo.php?channel=27144
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225856mcothd.jpg",Mcothd
+https://www.inwiptv.com/player_demo.php?channel=27141
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225844onehd.jpg",Onehd
+https://www.inwiptv.com/player_demo.php?channel=27140
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225909thairahttvhd.jpg",Thairahttvhd
+https://www.inwiptv.com/player_demo.php?channel=27138
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225924ch3hd.jpg",Ch3hd
+https://www.inwiptv.com/player_demo.php?channel=27137
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225938amarintvhd.jpg",Amarintvhd
+https://www.inwiptv.com/player_demo.php?channel=27135
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421225954ch7hd.jpg",Ch7hd
+https://www.inwiptv.com/player_demo.php?channel=27132
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240421230006pptvhd.jpg",Pptvhd
+https://www.inwiptv.com/player_demo.php?channel=27129
