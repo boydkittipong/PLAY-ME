@@ -111,3 +111,6 @@ https://oral.thaim3u.com/doolive4k-tv/Arena%20Sport%202%20Serbia/playlist.m3u8|R
 https://oral.thaim3u.com/doolive4k-tv/Arena%20Sport%203%20Serbia/playlist.m3u8|Referer=https://doolive4k.tv/
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/tTQxbN4EmXOCuHBdr0CRjnN5JndjZMtrs_4.png",Arena sport Serbia 4
 https://oral.thaim3u.com/doolive4k-tv/Arena%20Sport%204%20Serbia/playlist.m3u8|Referer=https://doolive4k.tv/
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/djAQTIRLDJ1VLKMaDdqDhLZGm64Ez2ETNT_Sports_Argentina.png",TNT
+https://oral.thaim3u.com/doolive4k-tv/TNT%20Sports%20Argentina/playlist.m3u8|Referer=https://doolive4k.tv/
