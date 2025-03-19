@@ -147,24 +147,4 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 #EXTINF:-1 tvg-id="51" tvg-logo="https://www.i-pic.info/i/D9gt150059.png",DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_1_France.png",beIN SPORTS 1 France
-https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|Referer=https://daddylive.mp/stream/stream-116.php
-#EXTINF:-1 tvg-id="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",beIN SPORTS 2 France
-https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|Referer=https://daddylive.mp/stream/stream-117.php
-#EXTINF:-1 tvg-id="51" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",beIN SPORTS 3 France
-https://ddy6new.koskoros.ru/ddy6/premium491/mono.m3u8|Referer=https://daddylive.mp/stream/stream-118.php
 
-#EXTINF:-1 tvg-id="51" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",beIN SPORTS 1 Turkey
-https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8|Referer=https://daddylive.mp/stream/stream-62.php
-#EXTINF:-1 tvg-id="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png",beIN SPORTS 2 Turkey
-https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8|Referer=https://daddylive.mp/stream/stream-63.php
-#EXTINF:-1 tvg-id="51" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN SPORTS 3 Turkey
-https://zekonew.koskoros.ru/zeko/premium64/mono.m3u8|Referer=https://daddylive.mp/stream/stream-64.php
-
-#EXTINF:-1 tvg-id="51" tvg-logo="https://archive.org/services/img/ELEVENSPORTS_201809",Eleven Sports 1 Poland
-https://windnew.koskoros.ru/wind/premium71/mono.m3u8|Referer=https://daddylive.mp/stream/stream-71.php
-
-#EXTINF:-1 tvg-id="51" tvg-logo="https://3theorymusic.com/wp-content/uploads/dazn-logo.png",DAZN 1
-https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8|Referer=https://daddylive.mp/stream/stream-455.php
-#EXTINF:-1 tvg-id="51" tvg-logo="https://3theorymusic.com/wp-content/uploads/dazn-logo.png",DAZN 2
-https://windnew.koskoros.ru/wind/premium456/mono.m3u8|Referer=https://daddylive.mp/stream/stream-456.php
