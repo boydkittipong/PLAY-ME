@@ -137,6 +137,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/172735216318_logo_vertical_negativo-1.jpg",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",DUBAI SPORTS
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
@@ -144,3 +146,8 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo="https://www.i-pic.info/i/D9gt150059.png",DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_1_France.png",beIN SPORTS 1 France
+https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|Referer=https://daddylive.mp/stream/stream-116.php
+#EXTINF:-1 tvg-id="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",beIN SPORTS 2 France
+https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|Referer=https://daddylive.mp/stream/stream-117.php
