@@ -70,7 +70,7 @@
 {
 "name": "WATCH SERIES",
 "image": "https://www.i-pic.info/i/e3gC195355.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SERIES",
+"url": "https://pastebin.com/raw/h6MtXfMf",
 "import": false
 },
 {
