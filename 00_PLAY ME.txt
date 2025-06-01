@@ -88,7 +88,7 @@
 {
 "name": "BONDiptv",
 "image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
+"url": "https://dl.dropboxusercontent.com/scl/fi/c7g5nqlx8kj1lclfmrkoo/RED-STAR.txt?rlkey=qc3yqdqpvggevh88h9o5euo91&fbclid=IwQ0xDSwKoeGNjbGNrAqh4SWV4dG4DYWVtAjExAAEeq-08ilCX5mGGgJ5P8Pxi-ElhwMWAIubYYE8KfYrhc45DW6JQ8pm87vYa9lE_aem_y7utpZP2Vbrgyd2Yhg__Xg",
 "import": false
 },
 {
