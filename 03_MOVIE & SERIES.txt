@@ -5,6 +5,7 @@ https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela.live/live-t
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://dookeela.live/live-tv/trueseries|Referer=https://dookeela.live/live-tv
 
 
