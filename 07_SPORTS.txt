@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1720429672.png",3BB SPORTS 1
-https://dookeela.live/live-tv/3bbsports1|Referer=https://dookeela.live/live-tv
+https://dooballplus2.live/monomax2/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -212,6 +212,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://dookeela.live/uploads/1724849525.png",BEIN SPORT 1 AIS
 https://dookeela.live/live-tv/bein1_ais|Referer=https://dookeela.live/live-tv#
+
 
 
 
