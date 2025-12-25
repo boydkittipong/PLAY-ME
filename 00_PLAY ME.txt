@@ -79,56 +79,10 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
 "import": false
 },
-{
-"name": "BONDiptv",
-"image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://dl.dropboxusercontent.com/scl/fi/c7g5nqlx8kj1lclfmrkoo/RED-STAR.txt?rlkey=qc3yqdqpvggevh88h9o5euo91&fbclid=IwQ0xDSwKoeGNjbGNrAqh4SWV4dG4DYWVtAjExAAEeq-08ilCX5mGGgJ5P8Pxi-ElhwMWAIubYYE8KfYrhc45DW6JQ8pm87vYa9lE_aem_y7utpZP2Vbrgyd2Yhg__Xg",
-"import": false
-},
-{
-"name": "THAI IPTV3",
-"image": "https://play-lh.googleusercontent.com/LmXwBdyXNroHqxzz1Bgwo53355IRWuvzNjTLYNPOn_7IfMZTxR4PY4geqKrVEpXGyRI",
-"url": "https://pastebin.com/raw/Acsep91v",
-"import": false
-},
-{
-"name": "พรหมลิขิต",
-"image": "https://f.ptcdn.info/026/082/000/s2qaga1jov0QutnW9cT6g-o.jpg",
-"url": "https://pastebin.com/raw/3wmzQ7kS",
-"import": false
-},
-{
-"name": "cartoon Online",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQlqtpXhPOUcTteE21q_soTCAEi-XfWdutg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Legion1907/glowing-barnacle/m3u/animehdzeroo-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.m3u",
-"import": false
-},
-{
-"name": "WIN TV",
-"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url": "https://pastebin.com/raw/YpDkAZPg",
-"import": false
-},
-{
-"name": "TV+หนัง",
-"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/luxDu%20CHANEL",
-"import": false
-},
-{
-"name": "Free Channel",
-"image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
-"url": "http://tiny.cc/freetv2238",
-"import": false
-},
-{
-"name": "Hellbound Season 2",
-"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
-"url": "https://raw.githubusercontent.com/boydkittipong/series/refs/heads/main/sweet_home",
-"import": false
-},
+
 
 ]
 }
+
 
 
