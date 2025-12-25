@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yNmU0MjQyNzc2MDI5NDQ4ZWY3MwMjU1OGY0MTNjMTk0MTAy
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
-https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yYmZkNDIwMDIzMjFiZTNjY2MyMgMTM5ZjIxYzllMzQzYzg1
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yNzEyMDFjZDU3MWZlYmY0NWU1MQMWE5ZjFiZWJjODM1YWUx
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yNzVlYmNjYmRkZjlmOTkzZjVhOAOTQ4Y2FiYTM5MDE4NDJm
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-https://p0.cdn.vet/live/ch1/i/ch1i.m3u8?sid=b5yOGQ3YWUyYTQ4MjI3MDBjYTIyMANzIyZDI0MGIzODJlMjgw
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
 https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yMWE1NjkwZmFjMzZlNWI4NTU1ZQMjU0ODA1Y2I4Mjg5ZjBi
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yNjI5NmUzODQzNmUwNTRjZTQyNgNThmZDQ0NWNiY2Y5N2U0
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
 https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yYTVmNzYyNWE3ZjkyOThiOTAwYgOGQyZTA1NWY2MjkxYjI2
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yZGM1NDE2ODUyMmRhOTI1MjRmOQN2FjOTRiYTEzMDUyMDI3
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://p1.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5yNjBiZTFmNWRkY2RhNjliYjdmMAOGEwOGQ5ODk0MjYwNjFk
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
 https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yNDc0YjdjNTU3MDgyMWFiYTdlMANDI2NzU2OTg3YWQyYzAz
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
@@ -51,6 +51,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
