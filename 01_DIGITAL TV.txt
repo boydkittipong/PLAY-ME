@@ -14,7 +14,7 @@ https://www.adintrend.tv/hd/ch1?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
 https://www.adintrend.tv/hd/ch25?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://wandering-oldman.github.io/3bb-one31hd/3bb-one31hd.html
+https://www.one31.net/live?utm_source=mthai-want-to-be-partner&utm_campaign=contact-mthai&utm_medium=TV-live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
 https://www.adintrend.tv/hd/ch0?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
@@ -53,6 +53,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunk
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
+
 
 
 
