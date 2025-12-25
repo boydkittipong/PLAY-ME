@@ -8,12 +8,6 @@
  
  
 {
-"name": "INWIPTV",
-"image": "https://iptv-dd.com/wp-content/uploads/2021/10/inwiptv.png",
-"url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/main/Digital_TV.m3u?fbclid=Iwb21leAMs0ctjbGNrAyzRumV4dG4DYWVtAjExAAEeSFP5QReKfwa8Vl_-LSHT7wj8aNwepQ9tSaS1sJ7FUL0ERk8dnXP139O8QyM_aem_W2rDfhL3SQ_YYZDBljRoEQ",
-"import": false
-},
-{
 "name": "DIGITAL TV",
 "image": "https://www.i-pic.info/i/yLr8195347.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/01_DIGITAL%20TV.txt",
@@ -136,4 +130,5 @@
 
 ]
 }
+
 
