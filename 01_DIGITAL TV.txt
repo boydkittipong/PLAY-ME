@@ -30,15 +30,17 @@ https://p1.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5yNjBiZTFmNWRkY2RhNjliYjdmMAOGEwO
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
 https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yNDc0YjdjNTU3MDgyMWFiYTdlMANDI2NzU2OTg3YWQyYzAz
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
-https://looxtv.tv/JKN18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
-https://looxtv.tv/TNN%2024
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
 https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yYzIxMzY0Yjk5NjM1OThkZWI3MANTEyZjI1NWFkMDZkMzQ4
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1sSfWjUBV2w0scE4kzMjSvxBMcL7Gne_M",T-SPORTS 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
-https://www.tpchannel.org/broadcasts/tv
+https://tv-live.tpchannel.org/live/tv.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
-https://altv.thaipbs.or.th/live
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/mobile_v1.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
@@ -49,6 +51,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
