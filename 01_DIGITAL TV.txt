@@ -21,8 +21,6 @@ https://www.adintrend.tv/hd/ch0?t=live
 https://www.adintrend.tv/hd/ch26?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://www.adintrend.tv/hd/ch38?t=live
-#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703787733.png",MONO29 Plus
-https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
 https://looxtv.tv/Workpoint%20TV
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
@@ -38,13 +36,13 @@ https://looxtv.tv/TNN%2024
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
 https://www.adintrend.tv/hd/ch37?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+https://www.tpchannel.org/broadcasts/tv
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+https://altv.thaipbs.or.th/live
 #EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
 https://wandering-oldman.github.io/3bb-tsport7/3bb-tsport7.html
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
-https://wandering-oldman.github.io/3bb-topnews/3bb-topnews.html
+https://live.topnews.co.th/hls/mobile_v1.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
 https://wandering-oldman.github.io/3bb-news1/3bb-news1.html
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
@@ -53,6 +51,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunk
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
+
 
 
 
