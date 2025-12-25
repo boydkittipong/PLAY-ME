@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://wandering-oldman.github.io/3bb-ch3-1/3bb-ch3-1.html
+https://www.adintrend.tv/hd/ch3?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
-https://wandering-oldman.github.io/3bb-ch5/3bb-ch5.html
+https://www.adintrend.tv/hd/ch5?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 https://wandering-oldman.github.io/3bb-ch7/3bb-ch7.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-https://wandering-oldman.github.io/3bb-mcot/3bb-mcot.html
+https://www.adintrend.tv/hd/ch9?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-https://wandering-oldman.github.io/3bb-nbt/3bb-nbt.html
+https://www.adintrend.tv/hd/ch11?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-https://wandering-oldman.github.io/3bb-thaipbs/3bb-thaipbs.html
+https://www.adintrend.tv/hd/ch1?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://wandering-oldman.github.io/3bb-pptv/3bb-pptv.html
+https://www.adintrend.tv/hd/ch25?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
 https://wandering-oldman.github.io/3bb-one31hd/3bb-one31hd.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://wandering-oldman.github.io/3bb-gmm25/3bb-gmm25.html
+https://www.adintrend.tv/hd/ch0?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://wandering-oldman.github.io/3bb-amarin/3bb-amarin.html
+https://www.adintrend.tv/hd/ch26?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://wandering-oldman.github.io/3bb-mono29/3bb-mono29.html
+https://www.adintrend.tv/hd/ch38?t=live
 #EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1703787733.png",MONO29 Plus
 https://dookeela.live/live-tv/mono29plus|Referer=https://dookeela.live/live-tv
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
@@ -28,15 +28,15 @@ https://wandering-oldman.github.io/3bb-workpoint/3bb-workpoint.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
 https://wandering-oldman.github.io/3bb-true4u/3bb-true4u.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://wandering-oldman.github.io/3bb-ch8/3bb-ch8.html
+https://www.adintrend.tv/hd/ch33?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://wandering-oldman.github.io/3bb-thairath/3bb-thairath.html
+https://www.adintrend.tv/hd/ch39?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 https://wandering-oldman.github.io/3bb-jkn18/3bb-jkn18.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
 https://wandering-oldman.github.io/3bb-tnn16/3bb-tnn16.html
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-https://wandering-oldman.github.io/3bb-nation/3bb-nation.html
+https://www.adintrend.tv/hd/ch37?t=live
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
@@ -53,5 +53,6 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunk
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w2105277727_b3128000.m3u8
+
 
 
