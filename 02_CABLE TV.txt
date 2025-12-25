@@ -1,29 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TIF0152043.png",FARM TV
-https://www.inwiptv.com/player_demo.php?channel=27315
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
-https://www.inwiptv.com/player_demo.php?channel=27312
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JDgA155375.png",SUWANNABHUMI TV
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",MVMall Home
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.i-pic.info/i/Hrf7161119.png",TVB THAI
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mSlT152050.png",COOL CHANNEL
 https://live.cool-channel.com/cool/live-transmux.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",MVLAO
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",MVM
-https://n-edge-1-th.v2h-cdn.com/mvm/mvm/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/109_y_fT8KaRdJWBmucyAUSehgNozjGq4HDVCn.png",MVCTV3
-https://edge2a.v2h-cdn.com/tv3cam/tv3cam.stream/chunklist_w1369952456.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/thaibaan.png",THAIBAAN TV
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268156980599779330/EsDSmTDd_400x400.jpg",WHITE CHANNEL
 https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w678192898.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/LookthoongTVHD.png",LOOKTHOONG TVHD
+#EXTINF:-1 tvg-logo="https://www.radioth.org/images/stations/1715946828.webp",LOOKTHOONG TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ELdr152038.png",CABLE 37 HD
@@ -31,9 +13,8 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Kkdz152039.png",AT TV
 https://edge4.thaicom.io/v3/tb/Attv/chunklist_live_480p_VmH4X.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOf34j8agmAeiyLEi-I21vBs7nBTmKhZ-tQKUQa",HAPPY TV
-https://n-edge-1-th.v2h-cdn.com/happy/happy/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbjCASA_FOAAaOStEHt8VxvSqowmNy2kbyIrOvIt5vhroE2BVxgirvjCa57fSWXjscLs&usqp=CAU",GOOD IDEA TV
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VrkM1197177.png",GOOD IDEA TV
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+
 
 
