@@ -1,56 +1,55 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://www.adintrend.tv/hd/ch3?t=live
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yNmU0MjQyNzc2MDI5NDQ4ZWY3MwMjU1OGY0MTNjMTk0MTAy
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
-https://www.adintrend.tv/hd/ch5?t=live
+https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yYmZkNDIwMDIzMjFiZTNjY2MyMgMTM5ZjIxYzllMzQzYzg1
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://looxtv.tv/BBTV%20CH7
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-https://www.adintrend.tv/hd/ch9?t=live
+https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yNzEyMDFjZDU3MWZlYmY0NWU1MQMWE5ZjFiZWJjODM1YWUx
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
-https://www.adintrend.tv/hd/ch11?t=live
+https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yNzVlYmNjYmRkZjlmOTkzZjVhOAOTQ4Y2FiYTM5MDE4NDJm
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-https://www.adintrend.tv/hd/ch1?t=live
+https://p0.cdn.vet/live/ch1/i/ch1i.m3u8?sid=b5yOGQ3YWUyYTQ4MjI3MDBjYTIyMANzIyZDI0MGIzODJlMjgw
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://www.adintrend.tv/hd/ch25?t=live
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yMWE1NjkwZmFjMzZlNWI4NTU1ZQMjU0ODA1Y2I4Mjg5ZjBi
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://www.one31.net/live?utm_source=mthai-want-to-be-partner&utm_campaign=contact-mthai&utm_medium=TV-live
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://www.adintrend.tv/hd/ch0?t=live
+https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yNjI5NmUzODQzNmUwNTRjZTQyNgNThmZDQ0NWNiY2Y5N2U0
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://www.adintrend.tv/hd/ch26?t=live
+https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yYTVmNzYyNWE3ZjkyOThiOTAwYgOGQyZTA1NWY2MjkxYjI2
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-https://www.adintrend.tv/hd/ch38?t=live
+https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yZGM1NDE2ODUyMmRhOTI1MjRmOQN2FjOTRiYTEzMDUyMDI3
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
-https://looxtv.tv/Workpoint%20TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
-https://looxtv.tv/True4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-https://www.adintrend.tv/hd/ch33?t=live
+https://p1.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5yNjBiZTFmNWRkY2RhNjliYjdmMAOGEwOGQ5ODk0MjYwNjFk
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://www.adintrend.tv/hd/ch39?t=live
+https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yNDc0YjdjNTU3MDgyMWFiYTdlMANDI2NzU2OTg3YWQyYzAz
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 https://looxtv.tv/JKN18
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
 https://looxtv.tv/TNN%2024
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-https://www.adintrend.tv/hd/ch37?t=live
+https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yYzIxMzY0Yjk5NjM1OThkZWI3MANTEyZjI1NWFkMDZkMzQ4
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://www.tpchannel.org/broadcasts/tv
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",ALTV
 https://altv.thaipbs.or.th/live
-#EXTINF:-1 tvg-logo="https://www.tsports7.com/app-icon.png",T-SPORTS 7
-https://wandering-oldman.github.io/3bb-tsport7/3bb-tsport7.html
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/mobile_v1.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
-https://looxtv.tv/News1
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA",NBT WORLD HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chunklist_w425976220_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSzbL3qjqjaFSBsP08FW5SK2C1ykTHG-LO4D8YrVA=s900-c-k-c0x00ffffff-no-rj",NBT CENTRAL
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
