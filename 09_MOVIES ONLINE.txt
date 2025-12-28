@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2-Death-Whisperer-2-2024-300x450.jpg",ธี่หยด 2 Death Whisperer 2 (2024)
 https://main.24playerhd.com/m3u8/ed13e9288c02ec609666a891/ed13e9288c02ec609666a891438.m3u8
-#EXTINF:-1  tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/10/Concrete-Utopia-2023-%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%97%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2-%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.jpg",Concrete Utopia (2023) คอนกรีตยูโทเปีย วิมานกลางนรก
-https://main.24playerhd.com/m3u8/f0604aed9663ae35df5c24d6/f0604aed9663ae35df5c24d6438.m3u8
 #EXTINF:-1  tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",The Moon ปฏิบัติการพิชิตจันทร์ (2023)
 https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg",อนงค์ My Boo (2024)
@@ -23,4 +21,5 @@ https://main.24playerhd.com/m3u8/e518fdf5fc6ce3301cec7f7e/e518fdf5fc6ce3301cec7f
 https://main.24playerhd.com/m3u8/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae438.m3u8
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/The-Package-2024-%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg",The Package (2024) พัสดุฝ่าแดนมรณะ
 https://main.24playerhd.com/m3u8/7d371c2891fa80050f06cca2/7d371c2891fa80050f06cca2438.m3u8
+
 
