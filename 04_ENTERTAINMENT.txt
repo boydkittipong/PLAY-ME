@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",Just for laughs gags
-https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjU5OjQ4IEFNJmhhc2hfdmFsdWU9OE56OHFxN1g1N2RQRGlkdXVadG1JQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png",FOOD NETWORK
-https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+https://dookeela4.live/live-tv/foodnetwork
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
@@ -36,6 +34,7 @@ https://dookeela.live/live-tv/amc|Referer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/tlc|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN
 https://dookeela.live/live-tv/tvn-indonesia|Referer=https://dookeela.live/live-tv
+
 
 
 
