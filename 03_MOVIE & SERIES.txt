@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/dZvR148415.png",TRUE MOVIE HITS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela.live/live-tv
+https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela4.live/
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
@@ -75,6 +75,7 @@ https://dookeela.live/live-tv/paramount-network|Referer=https://dookeela.live/li
 https://dookeela.live/live-tv/warnertv|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706405008.png",iQIYI
 https://dookeela.live/live-tv/iqiyi|Referer=https://dookeela.live/live-tv
+
 
 
 
