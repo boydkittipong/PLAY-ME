@@ -31,6 +31,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th/portal/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0015/HLS/B0015.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2b458d30477a8d3a014eae4938513222&chunkHttps=true&tmid=B0015&tpbk=Df4AL6yEFfqn5fKO&rrt=1766906327&tmod=rfk&rsid=f57362d5-0176-458f-bdf8-05544094f0e2&tuid=0f88b2c15e&cdn=redfox-https&tdid=e51c2b88f002338cc7d6b82c7ce62aee&origin=anevia&tfa=f0-fc&tttl=1766992661
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
@@ -70,6 +71,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
