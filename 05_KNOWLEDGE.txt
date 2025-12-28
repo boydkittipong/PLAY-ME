@@ -1,14 +1,23 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg",FWDOC
-https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNCA1OjU2OjA4IEFNJmhhc2hfdmFsdWU9RGgrdzVLeTZrYldkNDNwdkw3VTBFQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/trueexplorewild
+
+#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPL.jpg",TRUE EXPLORE LIFE
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/trueexplorelife
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
-https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tlc
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
-https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/history
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bbc-earth
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
@@ -35,6 +44,7 @@ https://dookeela.live/live-tv/mysci|Referer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/trueexplorewild|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png",Samrujlok
 https://dookeela.live/live-tv/samrujlok|Referer=https://dookeela.live/live-tv
+
 
 
 
