@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png",FOOD NETWORK
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://dookeela4.live/live-tv/foodnetwork
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/HNdC149435.png",LIFETIME
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/axn
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/afn
 
 
 #EXTINF:-0 tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",TRUE EXPLORE WILD
@@ -34,6 +36,7 @@ https://dookeela.live/live-tv/amc|Referer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/tlc|Referer=https://dookeela.live/live-tv
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN
 https://dookeela.live/live-tv/tvn-indonesia|Referer=https://dookeela.live/live-tv
+
 
 
 
