@@ -52,7 +52,7 @@
 {
 "name": "NEWS",
 "image": "https://www.i-pic.info/i/bp1c195353.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/NEWS",
+"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/refs/heads/main/08_NEWS.txt",
 "import": false
 },
 {
@@ -83,6 +83,7 @@
 
 ]
 }
+
 
 
 
