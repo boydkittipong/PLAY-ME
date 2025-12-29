@@ -52,7 +52,7 @@ https://dookeela4.live/live-tv/nationtv
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1sSfWjUBV2w0scE4kzMjSvxBMcL7Gne_M",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 #EXTVLCOPT:http-referrer=https://www.looxtv.tv/
-https://vlb.thaicom.io/v2/TSport7/playlist.m3u8
+https://vlb.thaicom.io/v2/TSport7/playlist.m3u8|Referer=https://www.looxtv.tv/
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1sSfWjUBV2w0scE4kzMjSvxBMcL7Gne_M",T-SPORTS 7
 #EXTVLCOPT:http-referrer=https://www.looxtv.net/
@@ -287,6 +287,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
 
 
 
