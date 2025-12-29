@@ -1,49 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/f5dm152053.png",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG
-https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/hBHG152070.png",SKY ONE
-https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mAUP152040.png",ALIBI
-https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/VCKg152056.png",GOLD
-https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ZxKh152046.png",BBC WORLD NEWS
-https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
-https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
-
-#EXTINF: -1 tvg-logo="http://fltaradio.com/upload/2018/09/ntv-news24.jpg",NTV NEWS24 
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
-https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG ASIA
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/rTji152041.png",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/K4Oc155289.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/e0qU152065.png",TRT WORLD
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EgqF152054.png",FRANCE 24 
-https://www.france24.com/en/live
 
 #EXTINF:-1 tvg-logo="https://www.lgontario.ca/custom/uploads/2020/04/unnamed.jpg",UN WEB TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://www.metroglobe.id/assets/img/logo.png",METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+
 
