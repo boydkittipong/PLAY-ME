@@ -48,9 +48,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://dookeela4.live/live-tv/nationtv
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1sSfWjUBV2w0scE4kzMjSvxBMcL7Gne_M",T-SPORTS 7
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 #EXTVLCOPT:http-referrer=https://www.looxtv.tv/
 https://vlb.thaicom.io/v2/TSport7/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1sSfWjUBV2w0scE4kzMjSvxBMcL7Gne_M",T-SPORTS 7
 #EXTVLCOPT:http-referrer=https://www.looxtv.net/
 https://www.looxtv.tv/TSport7
@@ -77,9 +80,9 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chun
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 
-#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", spotv
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/nbt/playlist.m3u8
+https://bonnet-fantasy.hallokitty.org:9314/v5/DtMZ415PG8pLDi402XfmQQ/1766973148/9100f46b4f66519bf61dd2cd53c87be3/0XftFH5xV58XUVQBPXaBWg/1766983828/live/vx-origin/hd-spotv_720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV", TPBS
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
@@ -284,6 +287,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
 
 
 
