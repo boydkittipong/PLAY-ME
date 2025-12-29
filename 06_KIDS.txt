@@ -1,35 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|Referer=https://streaming.livescorethai.net
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOONCLUB
-https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",BOOMERANG
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w2332100.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
-https://www.inwiptv.com/player_demo.php?channel=89780
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png",DreamWorks
-https://dookeela.live/live-tv/dreamworks|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png",Nick Jr.
-https://dookeela.live/live-tv/nickjr|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png",Nickelodeon
-https://dookeela.live/live-tv/nickelodeon|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png",True Spark Play
-https://dookeela.live/live-tv/nickelodeon|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png",Cartoonito
-https://dookeela.live/live-tv/cartoonito|Referer=https://dookeela.live/live-tv
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png",Disney Channel
-https://dookeela.live/live-tv/disney-channel|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png",Disney Junior
-https://dookeela.live/live-tv/disney-junior|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png",Disney XD
-https://dookeela.live/live-tv/disneyxd|Referer=https://dookeela.live/live-tv
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/9dia161108.png",PBS KIDS (Soundtrack)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
 
 
