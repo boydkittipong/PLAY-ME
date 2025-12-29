@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 #EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/?t=live
-https://www.adintrend.tv/hd/ch3?t=live
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yMWE0ODAwMjYyZjE5ODdiYTMwMAOTY1OGU3ZGZmMjEwYzNk
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://dookeela4.live/live-tv/ch3hd
@@ -22,10 +22,10 @@ https://dookeela4.live/live-tv/pptv
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://www.amarintv.com/live
-#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1766998179&x_ark_path_prefix=%2Flive%2F&x_ark_signature=TTQdWq3oEfGxYMe62X48Gg
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/?t=live
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yNTA4NjhhMzMxYWJiZDMxNjE4OQMTk5NmNhMDY0NThiMGQ2
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
@@ -282,6 +282,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
 
 
 
