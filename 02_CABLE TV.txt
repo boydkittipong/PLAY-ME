@@ -10,11 +10,10 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ELdr152038.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Kkdz152039.png",AT TV
-https://edge4.thaicom.io/v3/tb/Attv/chunklist_live_480p_VmH4X.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VrkM1197177.png",GOOD IDEA TV
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+
 
 
 
