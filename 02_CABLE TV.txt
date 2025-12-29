@@ -13,6 +13,13 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VrkM1197177.png",GOOD IDEA TV
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.muanchononlinenews.com/wp-content/uploads/2022/09/S__27025565.jpg",Siam News TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
 
 
 
