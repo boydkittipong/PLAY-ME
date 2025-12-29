@@ -35,8 +35,8 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/thairathtv
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/?t=live
+https://p1.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yZmU1YThiNTZjNTM3YzI2YzExYwMjBkOGExNjI0ODk5YjQ0
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://dookeela4.live/live-tv/jkn18
@@ -282,6 +282,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
 
 
 
