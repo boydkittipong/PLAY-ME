@@ -58,7 +58,7 @@
 {
 "name": "MOVIES ONLINE",
 "image": "https://www.i-pic.info/i/hFmP195354.png",
-"url": "https://pastebin.com/raw/rwL9E0jb?fbclid=IwY2xjawGG3MZleHRuA2FlbQIxMAABHUSvGc12MPy2s4AyCtBPqnoeZkGGJYPVLtPf5RSMUems6NOG3332WQsAOw_aem_Q2993qFxcF8dbPU08djvzA",
+"url": "https://docs.google.com/uc?export=download&id=1AJEbKJ9mEkfpEzZlBbtVauIdnmSwA2bh",
 "import": false
 },
 {
@@ -70,7 +70,7 @@
 {
 "name": "NETFLX",
 "image": "https://www.i-pic.info/i/28vw195356.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/PLAY-ME/main/09_MOVIES%20ONLINE.txt",
+"url": "https://docs.google.com/uc?export=download&id=1eDvDp4DUPEiZjXWaDQ6MYskRdqVJauqV",
 "import": false
 },
 {
@@ -83,6 +83,7 @@
 
 ]
 }
+
 
 
 
