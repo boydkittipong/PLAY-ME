@@ -1,44 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png",FOOD NETWORK
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/foodnetwork
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/axn
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/afn
-
-#EXTINF:-0 tvg-logo="https://dookeela.live/uploads/1719206155.png",True X-Zyte
-https://dookeela.live/live-tv/truex-zyte|Referer=https://dookeela.live/live-tv
-
-#EXTINF:-0 tvg-logo="http://tvsmagazine.com/images/channels/sm_130.jpg",BBC LIFESTYLE
-https://dookeela.live/live-tv/bbc-lifestyle|Referer=https://dookeela.live/live-tv
-
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
-https://dookeela.live/live-tv/rock-entertainment|Referer=https://dookeela.live/live-tv
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png",ROCK Action
-https://dookeela.live/live-tv/rock-action|Referer=https://dookeela.live/live-tv
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716339097.png",AMC
-https://dookeela.live/live-tv/amc|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png",TLC
-https://dookeela.live/live-tv/tlc|Referer=https://dookeela.live/live-tv
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN
-https://dookeela.live/live-tv/tvn-indonesia|Referer=https://dookeela.live/live-tv
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-logo="https://i.imgur.com/uOfb3y1.png",Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+#EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png",Looktung Network FM 98.5
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
