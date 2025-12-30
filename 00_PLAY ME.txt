@@ -79,10 +79,16 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
 "import": false
 },
-
+{
+"name": "Iptv",
+"image": "",
+"url": "https://drive.google.com/uc?export=download&id=1iA0mrgo5dJdsqw2my_T_37LLiKRo_jgx",
+"import": false
+},
 
 ]
 }
+
 
 
 
