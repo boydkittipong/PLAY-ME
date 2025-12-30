@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.cantstopwontstop.online/images/png/th-monomax01.png",monomax01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://ending-unclip.hallokitty.org:9305/v5/dlQX--8f2LXlNkLi23jaSg/1767088188/16766aaa4023f91e0ac5b0d5a3e4c30e/JGF8Qa9pCzLj2LcfOtfX1A/1767098868/live/lx-origin/th-monomax01_720/playlist.m3u8|Referer=https://dooball66.net/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png",rmtv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -48,6 +47,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj69WbR.png",game
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
 
 
 
