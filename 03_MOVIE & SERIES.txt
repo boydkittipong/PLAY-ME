@@ -7,6 +7,8 @@ https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OwZ8hzmnfH6GZP8UEd8XIgxBqRvSa0_XJaDGNze4qc60asHTAkxRx1ISAvojNmACuLg",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png",CRAVE_1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png",Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png",Persiana Korea
@@ -15,6 +17,7 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HtW-b0Y-RNTO2FdptGJx0L88t2uO4LqI4A&s",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 
 
 
