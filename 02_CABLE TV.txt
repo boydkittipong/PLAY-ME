@@ -23,7 +23,7 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DOPAChannel.th" tvg-logo="https://imgur.com/Z9vxti4.png",DOPA Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="RamaChannel.th" tvg-logo="https://i.imgur.com/pnbzE2V.png",Rama Channel (1080p)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/nwNt152066.png",RAMA CHANNEL
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี.th" tvg-name="ไทบ้านทีวี" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png", ไทบ้านทีวี
@@ -39,6 +39,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 #EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM.th" tvg-name="MVM" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png", MVM
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+
 
 
 
