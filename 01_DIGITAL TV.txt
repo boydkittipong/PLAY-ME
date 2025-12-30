@@ -14,7 +14,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
 https://vlb.thaicom.io/v2/PPTV_HD/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-https://p0.cdn.vet/live/ch25/i/ch25i/playlist.m3u8
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
@@ -61,6 +61,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
