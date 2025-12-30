@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.cantstopwontstop.online/images/png/th-monomax01.png",monomax01
-https://monthly-moneywise.hallokitty.org:9308/v5/GSZPFKPOAMBc0ZZuEHVc2A/1767085776/f51d19c391f92f41999a908aa78c14da/zmiy6qilNROqQZhdaGH-Uw/1767096456/live/lx-origin/th-monomax01_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png",rmtv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",gol_classics
@@ -47,6 +45,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj69WbR.png",game
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
 
 
 
