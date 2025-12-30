@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-logo="https://i.imgur.com/uOfb3y1.png",Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-#EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png",Looktung Network FM 98.5
-http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOfb3y1.png",chefchampion
+#EXTINF:-1 tvg-logo="https://www.chefchampion.com/resources/Chef%20Champion%20Logo_Final%20on%20white.png.opt200x190o0%2C0s200x190.png",Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/0c/4b/aa/0c4baa10bf16de8d7c65addc00fb0e54.jpg",COOKING PANDA
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
@@ -19,4 +15,6 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png",Travel XP (720p)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 
