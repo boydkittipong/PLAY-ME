@@ -43,7 +43,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lj69WbR.png",game
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 
 
 
