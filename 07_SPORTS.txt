@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.cantstopwontstop.online/images/png/epl-bein3.png",epl-bein3
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+#EXTVLCOPT:http-referrer=https://livescorethai6.info/
 https://emote-convene.hallokitty.org:9315/v5/aWqGDx7x2amBRngOI33msw/1767083344/55a8e2ed17736597190568cc484299aa/7qQ_mh7w_u-n1zP3WbURHw/1767094024/live/vx-origin/epl-bein3_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png",rmtv
@@ -48,6 +50,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj69WbR.png",game
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
 
 
 
