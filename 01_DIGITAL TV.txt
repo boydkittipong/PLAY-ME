@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1767245103&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Ym-3xBgYiF9WVy-6rhjVfg
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
@@ -61,6 +61,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w902922780_b3128000.m3u8
+
 
 
 
